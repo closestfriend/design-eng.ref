@@ -1,0 +1,269 @@
+# UI references for coding agents
+
+> Index of component libraries, motion/GSAP resources, shaders, theming tools and agent skills for building interfaces, grouped by the job they do in a build. Draft, valid as of 2026-10-08. Tags are LLM-generated from titles and only partly verified; see README.md.
+
+## Core components & primitives
+
+- [Graphical](https://www.graphicalui.com/)
+- [knadh/oat: Ultra-lightweight, zero dependency, semantic HTML/CSS/JS UI library](https://github.com/knadh/oat): github
+- [Pixel Perfect UI — Lightweight UI Library for React](https://www.pixel-perfect.space/): shadcn-registry
+- [SmolCSS](https://smolcss.dev/)
+- [The Component Gallery](https://component.gallery/)
+- [98.css](https://jdan.github.io/98.css/)
+- [A useful tool for designing css buttons](https://www.bestcssbuttongenerator.com/)
+- [Build your Component Library - shadcn/ui](https://ui.shadcn.com/): llms.txt
+- [Craftwork: UX/U kits, templates, vector and 3D illustrations](https://craftwork.design/): llms.txt
+- [CSS Buttons](https://www.w3schools.com/css/css3_buttons.asp)
+- [Free UI Resources - Download Best Handpicked Design Resources](https://freeuiresources.com/)
+- [Frend - A collection of accessible, modern front-end components.](https://frend.co/)
+- [GitHub - michu2k/Accordion: Accordion module created in pure javascript & CSS. Very useful to create FAQ lists](https://github.com/michu2k/Accordion): github
+- [GitHub - torcado194/scritch-player: A simple, customizable HTML media player designed for artists · GitHub](https://github.com/torcado194/scritch-player): github
+- [React-Select](https://react-select.com/home)
+- [Relume Libraries Cloneable](https://relume-libraries.webflow.io/)
+- [Storybook: Frontend workshop for UI development](https://storybook.js.org/): llms.txt
+- [Tailwind CSS button collection - Click-to-copy integration](https://buttons.ibelick.com/)
+
+## Micro-interactions & transitions
+
+- [Amicro — Premium React Micro-transitions & Interaction Components](https://amicro.vercel.app/): shadcn-registry
+- [Animation Vocabulary — A Glossary of Animation Patterns](https://animations.samkalok.com/): llms.txt
+- [apple-design Skill - emilkowalski | UI Skills](https://www.ui-skills.com/skills/emilkowalski/apple-design): llms.txt
+- [Fancy Components](https://www.fancycomponents.dev/): llms.txt + shadcn-registry
+- [Framer Motion Components | Pixel Perfect UI](https://www.pixel-perfect.space/blocks/motion): shadcn-registry
+- [Interface Craft](https://www.interfacecraft.dev/)
+- [Motion One: The Web Animations API for everyone](https://motion.dev/): llms.txt
+- [Motionwind — Motion animations as Tailwind classes](https://www.motionwind.xyz/): llms.txt
+- [Originkit — Free Animated component library for modern websites](https://www.originkit.dev/)
+- [React UI Components | ObsidianUI](https://www.obsidianui.dev/components): llms.txt + shadcn-registry
+- [The Vocabulary of Motion](https://motion-vocabulary.vercel.app/)
+- [Transitions.dev: UI transitions for AI agents](https://transitions.dev/)
+- [60fps - UI/UX animation inspiration for mobile & web apps](https://60fps.design/): llms.txt
+- [90’s Cursor Effects](https://tholman.com/cursor-effects/)
+- [Animate.css | A cross-browser library of CSS animations.](https://animate.style)
+- [Hover.css - A collection of CSS3 powered hover effects](https://ianlunn.github.io/Hover/)
+- [Jitter · A fast and simple motion design tool on the web](https://jitter.video/)
+- [LottieFiles for WordPress Plugin: Add Animations to WordPress for Free](https://lottiefiles.com/plugins/wordpress): llms.txt
+- [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
+- [Make CSS Animations with AI | AI CSS Animations](https://www.aicssanimations.com/)
+- [Morphing menu — Playground](https://dannyjpwilliams.com/playground/morphing-menu/)
+- [Motion](https://motion.zajno.com/)
+- [UI Movement](https://uimovement.com/)
+
+## Scroll & page motion
+
+- [GSAP Motion Components for React & Vue | Annnimate](https://annnimate.com/): llms.txt
+- [Lenis – Get smooth or die trying](https://lenis.studiofreight.com/)
+- [The GSAP Field™ — A motion playground by BYQ](https://the-gsap-field.webflow.io/)
+- [Book rotation on scroll](https://codepen.io/riklomas/pen/dyOBXKy)
+- [CSS-only scrollspy effect using scroll-marker-group and :target-current](https://www.sarasoueidan.com/blog/css-scrollspy/)
+- [GitHub - egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll): github
+- [GitHub - flackr/scroll-timeline: A polyfill of ScrollTimeline.](https://github.com/flackr/scroll-timeline): github
+- [Scroll-driven Animations](https://scroll-driven-animations.style/)
+- [View Progress Timeline: Ranges and Animation Progress Visualizer](https://scroll-driven-animations.style/tools/view-timeline/ranges/)
+
+## Text effects & type motion
+
+- [slot-text — tiny text roll animation](https://textmotion.dev/)
+- [csswarp.eleqtriq.com](https://csswarp.eleqtriq.com/)
+- [Effects Showroom - TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+- [My favourite piece of motion design this week, and its not even animation. &#39;Pretext&#39; by Cheng Lou hand](https://www.linkedin.com/posts/christian-wheeler-a7b77719a_my-favourite-piece-of-motion-design-this-ugcPost-7447085067245412352-Y543)
+- [Reaction Diffusion Typography generator](https://claude.ai/code/artifact/4a4fc3e2-7283-43da-8fdf-934e7e310d8e)
+- [rutherfordcraze/variable-animation](https://github.com/rutherfordcraze/variable-animation): github
+- [Studio Blou - Motion Type](https://studioblou.tv/tools/motiontype/)
+- [Type Dither](https://typedither.vercel.app/)
+- [Typeface Animator](https://www.typefaceanimator.com/)
+- [WordArt](https://codepen.io/kathykato/pen/omxPap)
+
+## Loaders & AI/agent status
+
+- [Generative Loaders — text, inline, and image loaders for React](https://generativeloaders.com/)
+- [Thinking Orbs - AI Status Indicator Components for React](https://www.thinkingorbs.com/): llms.txt
+- [Recent — Design Inspiration](https://recent.design/i/vxeptem-orbloom-voice-orb-library)
+
+## Backgrounds, shaders & generative visuals
+
+- [Canvas UI: Creative Canvas and WebGL Component Library](https://canvasui.dev/): llms.txt + shadcn-registry
+- [Paper Shaders – Ultra-fast zero-dependency shaders](https://shaders.paper.design/): llms.txt
+- [Retro Dither | Canvas UI](https://canvasui.dev/docs/components/retro-dither): llms.txt + shadcn-registry
+- [*p5.brush - Brush that canvas!](https://p5-brush.cargo.site/)
+- [3D Photo Effects free online app](https://3dthis.com/3dfx.htm)
+- [ASCII Animation Generator](https://cdn.thefurrow.tv/assets/asciixgpt.html)
+- [Borelais](https://marlonbarrios.github.io/animated_lines_sound/)
+- [ccclaymoji: claymorphism-style SVG emoji maker](https://fffuel.co/ccclaymoji/)
+- [codepen.io](https://codepen.io/ClementRoche/full/pmvNzq)
+- [ColorCycle.js](https://framer.com/m/framer/ColorCycle.js): llms.txt
+- [Creating a Pencil Effect in SVG](https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html)
+- [CSS 3D Clouds](https://www.clicktorelease.com/code/css3dclouds/)
+- [davidsiaw/hexlife](https://github.com/davidsiaw/hexlife): github
+- [Demos — Fabric.js Javascript Canvas Library](http://fabricjs.com/demos/)
+- [dither in the browser with the power of CSS | maya.land](https://maya.land/monologues/2021/02/15/css-dither.html)
+- [DotForge — Real-Time Dither Animation Builder](https://dotforge.vercel.app/)
+- [Dynamic Phyllotaxis 01](https://marlonbarrios.github.io/animated_phylotaxis/)
+- [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/): llms.txt
+- [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/?v=1&in=media&media=%252Fassets%252Fbeach-sunset.mp4&ms=1&mpx=0&mpy=-0.018518518518518545&ss=0&ac=10&gbs=0.2&gdp=0.49&gbo=0&gsp=0.6&pp=pa%3A1%3Anes%2C000000-b53120-6b6b6b-fcfcfc%2C0.7%7Csl%3A1%3A0.3%2C300%7Ccu%3A1%3A0.5%7Cvi%3A1%3A0.4%2C0.7%7Cbc%3A1%3A0.1%2C1.2%2C0%2C1): llms.txt
+- [Effect.app — Online Image & Video Effects](https://effect.app/)
+- [eng.basement.studio](https://eng.basement.studio/tools/shader-lab): llms.txt
+- [Explore Effects & Presets | Effect.app](https://effect.app/explore)
+- [Eyecandy - Visual Technique Library](https://eyecannndy.com/)
+- [Fashion & Style 3D Models](https://sketchfab.com/store/3d-models/fashion-style?animated=1&ref=header)
+- [free SVG generators, web design tools & modern HTML templates](https://fffuel.co/)
+- [GitHub - aahdee/p5grid: An implementation of triangle, square, hexagon, and octagon grids for p5.js.](https://github.com/aahdee/p5grid): github
+- [GitHub - LingDong-/fishdraw: procedurally generated fish drawings](https://github.com/LingDong-/fishdraw): github
+- [GitHub - LingDong-/irregularity · GitHub](https://github.com/LingDong-/irregularity): github
+- [GitHub - makew0rld/didder: An extensive, fast, and accurate command-line image dithering tool.](https://github.com/makew0rld/didder): github
+- [GitHub - Megabound/dither-shitter: Tools for dithering](https://github.com/Megabound/dither-shitter?tab=readme-ov-file): github
+- [GitHub - raphaelameaume/fragment: [alpha] A web development environment for creative coding](https://github.com/raphaelameaume/fragment): github
+- [GitHub - texturedesign/texturize: 🤖🖌️ Generate photo-realistic textures based on source images. Remix, remake,](https://github.com/texturedesign/texturize): github
+- [GitHub - urbit/sigil-js: ~4.2 billion default profile pics](https://github.com/urbit/sigil-js): github
+- [Grainy Gradients | CSS-Tricks](https://css-tricks.com/grainy-gradients/): llms.txt
+- [gwygonik/PerlinRiver](https://github.com/gwygonik/PerlinRiver): github
+- [How We Animated Trillions of Tons of Flowing Ice](http://dwtkns.com/posts/flowing-ice.html)
+- [HTML Wind Chime System](https://1huali.github.io/windchime/)
+- [iiisometric: 3D-like isometric design builder](https://fffuel.co/iiisometric/)
+- [javascript - three js clickable objects - Stack Overflow](https://stackoverflow.com/questions/17638933/three-js-clickable-objects)
+- [KOJIMA — Micro-graphic Generator](https://kojima-san.vercel.app/)
+- [Motion Playground](https://motion-playground-steel.vercel.app/liquify)
+- [Moved by Noise (Perlin 101)](https://marlonbarrios.github.io/animated_grid_lines/)
+- [Offscreen Canvas](https://offscreencanvas.com/)
+- [photogeniq/neural-texturize](https://github.com/photogeniq/neural-texturize): github
+- [Pixelise SVG](https://awesomephant.github.io/pixelise-svg/)
+- [Placevalue Ascii Playground](https://placevalue-ascii.glitch.me)
+- [pppixelate: SVG pixel art pattern maker | fffuel](https://fffuel.co/pppixelate/)
+- [Reaction diffusion simulation](https://pmneila.github.io/jsexp/grayscott/)
+- [Reaction-Diffusion Explorer Tool](https://karlsims.com/rdtool.html?s=WLjznPc5eh7K9008W3)
+- [Reaction-Diffusion Explorer Tool](https://karlsims.com/rdtool.html?s=0LWG2)
+- [SculptGL - A WebGL sculpting app](https://stephaneginier.com/sculptgl/)
+- [SebLague/Slime-Simulation](https://github.com/SebLague/Slime-Simulation): github
+- [Shader lab | Alembic](https://lab.alembic.space/)
+- [ShaderGPT](https://shadergpt.14islands.com/)
+- [ShaderGPT](https://shadergpt.14islands.com/c902bd8e-7b20-420d-b06f-e99355a908bd)
+- [Shaders](https://shaders.com/): llms.txt
+- [ShprAlex/SproutLife](https://github.com/ShprAlex/SproutLife): github
+- [Simple pencil + ink pen effect for SVG path using filters / Olivia Vane | Observable](https://observablehq.com/@oliviafvane/simple-pencil-ink-pen-effect-for-svg-path-using-filters)
+- [Spherium | Advanced WebGL Globe & Map Generator](https://tryspherium.com/)
+- [Strings](https://codepen.io/shubniggurath/pen/ZYpjorm)
+- [SVG Filters](https://yoksel.github.io/svg-filters/)
+- [Texturelib - free texture library](http://texturelib.com/)
+- [Three.js – JavaScript 3D library](https://threejs.org/): llms.txt
+- [Topographic Map Animation](https://codepen.io/jonyablonski/pen/BpxzrO)
+- [tsulej/GenerateMe](https://github.com/tsulej/GenerateMe): github
+- [unicorn.studio — No-code WebGL Tool](https://www.unicorn.studio/): llms.txt
+- [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://halftone.xoihazard.com/)
+- [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://xoihazard.com/tools/halftone/)
+- [Vite + React](https://solst-ice.github.io/pxl-srt/)
+- [WebGL flower](https://www.ibiblio.org/e-notes/Splines/garden/lathe/tulip_tex.htm)
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [www.shadertoy.com](https://www.shadertoy.com/)
+
+## Theming, color & tokens
+
+- [Beautiful themes for shadcn/ui — tweakcn | Theme Editor & Generator](https://tweakcn.com/): shadcn-registry
+- [Color Scales | Components AI](https://components.ai/color-scale/0XJLbb2fwjM6LzK2pmLQ)
+- [Colors – Radix UI](https://www.radix-ui.com/colors)
+- [CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
+- [CSS Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
+- [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic): github
+- [Esri Color Ramps | ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/visualization/symbols-color-ramps/esri-color-ramps/)
+- [FOUND COLOR schemes for web and UI](https://foundcolor.co/)
+- [GitHub - antiflasher/apcach: JS color calculator for composing colors with consistent APCA contrast ratio.](https://github.com/antiflasher/apcach): github
+- [GitHub - evilmartians/harmony: Harmony color palette](https://github.com/evilmartians/harmony): github
+- [GitHub - mattdesl/dictionary-of-colour-combinations: palettes from A Dictionary of Colour Combinations](https://github.com/mattdesl/dictionary-of-colour-combinations): github
+- [GitHub - texel-org/color: modern color library for image processing and creative coding (oklab, xyz, p3, rec20](https://github.com/texel-org/color): github
+- [Instrument — Mapping Dominant Image Colors in Javascript](https://www.instrument.com/articles/mapping-colors)
+- [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients): github
+- [Neumorphism CSS shadow generator](https://neumorphism.io/)
+- [ZoeFiri/base16-summercamp](https://github.com/ZoeFiri/base16-summercamp): github
+- [~ soft aesthetic ~](https://github.com/soft-aesthetic): github
+
+## Layout & CSS technique
+
+- [<named-color> CSS type - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color)
+- [Antiquated HTML Snippets and Artefacts | Vale.Rocks](https://vale.rocks/posts/html-relics)
+- [attr() - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/attr)
+- [Basscss](http://basscss.com/)
+- [Border-image generator - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Border-image_generator)
+- [Carousel · Intro to CSS 3D transforms](https://3dtransforms.desandro.com/carousel)
+- [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
+- [cohost!](https://cohost.org/-12/post/240461-svg-animate-attribu)
+- [Conditional Border Radius In CSS - Ahmad Shadeed](https://ishadeed.com/article/conditional-border-radius/)
+- [CSS GUI — Visual styling controls for the web](https://components.ai/css-gui)
+- [CSS Layout Generator](https://layout.bradwoods.io/)
+- [css list filtering](https://hack.wesleyac.com/pokemon.html)
+- [CSS Masonry & CSS Grid | CSS-Tricks](https://css-tricks.com/css-masonry-css-grid/): llms.txt
+- [CSS Nuggets | CodyHouse](https://codyhouse.co/nuggets/)
+- [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [CVS Receipt](https://codepen.io/garrettbear/full/JzMmqg)
+- [Emoji Cursor - CSS Generator Tool](https://www.emojicursor.app/)
+- [GitHub - AndreasFaust/awesome-styled-components: A curated list of awesome styled-components resources 💅](https://github.com/AndreasFaust/awesome-styled-components): github
+- [GitHub - joshbuchea/HEAD: A simple guide to HTML <head> elements](https://github.com/joshbuchea/HEAD): github
+- [GitHub - sdras/cssgridgenerator: 🧮 Generate basic CSS Grid code to make dynamic layouts!](https://github.com/sdras/cssgridgenerator): github
+- [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/)
+- [hteumeuleu/email-bugs](https://github.com/hteumeuleu/email-bugs): github
+- [mask-image - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-image)
+- [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/)
+- [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/): llms.txt
+- [New CSS that can actually be used in 2024](https://thomasorus.com/new-css-that-can-actually-be-used-in-2024.html)
+- [New CSS that can actually be used in 2024 - Thomasorus](https://thomasorus.com/new-css-that-can-actually-be-used-in-2024)
+- [Print-CSS – SELFHTML-Wiki](https://wiki.selfhtml.org/wiki/Print-CSS)
+- [Printing - Developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/Printing)
+- [Selecting previous siblings with CSS :has()](https://tobiasahlin.com/blog/previous-sibling-css-has/)
+- [size - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@page/size)
+- [Style a parent element based on its number of children using CSS :has()](https://www.bram.us/2022/11/17/style-a-parent-element-based-on-its-number-of-children-using-css-has/)
+- [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [The Lost CSS Tricks of Cohost.org | CSS-Tricks](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/): llms.txt
+- [The Mine: No JS, CSS only adventure game](https://codepen.io/jcoulterdesign/pen/NOMeEb)
+- [The Ultimate CSS Shapes Collection](https://css-shape.com/)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [unicode-range | CSS-Tricks](https://css-tricks.com/almanac/properties/u/unicode-range/): llms.txt
+- [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
+- [You no longer need JavaScript Ʊ lyra's epic blog](https://lyra.horse/blog/2025/08/you-dont-need-js/)
+- [🤯 HEAD - A simple guide to HTML <head> elements](https://htmlhead.dev/)
+
+## Agent skills & motion vocabulary
+
+- [GitHub - emilkowalski/skills: Skills for Design Engineers.](https://github.com/emilkowalski/skills): github
+- [GitHub - ibelick/ui-skills: Skills for Design Engineers](https://github.com/ibelick/ui-skills): github
+- [dmarx/luria: A simple but effective project memory framework based on change management principles. Luria trac](https://github.com/dmarx/luria): github
+- [GitHub - langgptai/awesome-claude-prompts: This repo includes Claude prompt curation to use Claude better.](https://github.com/langgptai/awesome-claude-prompts): github
+- [latentwill/ideonomy-skill: A Claude Code skill for expanding ideas via Patrick Gunkel's ideonomy, synthesized ](https://github.com/latentwill/ideonomy-skill): github
+- [staltz/microskills: Modular prompts I use every day](https://github.com/staltz/microskills): github
+
+## Inspiration & reference only
+
+- [DesEngs: Resources for Design Engineers](https://desengs.com/)
+- [9.63](https://ninepointsixthree.co/)
+- [A creative agency based in Aotearoa.](https://motionsickness.co.nz/)
+- [All Inspiration Components](https://www.tilebit.io/all-inspirations): llms.txt
+- [Browse iOS Apps | Mobbin - The world’s largest mobile app design reference library](https://mobbin.com/browse/ios/apps): llms.txt
+- [Capital Theme - Berlin - Ecommerce Website Template](https://themes.shopify.com/themes/capital/styles/berlin?surface_detail=capital&surface_inter_position=1&surface_intra_position=1&surface_type=search)
+- [Catalogue — every Arqé template | Arqé](https://arqe.ai/catalogue): llms.txt
+- [CodePen](https://codepen.io/)
+- [Codrops | Keeping web professionals inspired & up-to-date since 2009](https://tympanus.net/codrops/)
+- [Creative Hub | Codrops](https://tympanus.net/codrops/hub/)
+- [Deck.Gallery® — Beautifully designed decks, curated](https://www.deck.gallery/): llms.txt
+- [Denys Verholomchuk UI/UX Designer & Mentor](https://verholomchuk.com/)
+- [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/)
+- [Design Systems](https://designsystems.surf/design-systems)
+- [Discover iOS apps | Mobbin](https://mobbin.com/discover/apps/ios/latest): llms.txt
+- [Dusk — Elegant & Premium Framer Portfolio Template](https://dusk-template.framer.website/)
+- [Dynamic Motion Templates – Bold, Engaging Design Projects – 6TM® MAGAZINE](https://shop.6tm-magazine.com/collections/motion): llms.txt
+- [Elliot Vredenburg Promotional Website](https://ellio.tv/)
+- [ena supply - Framer Templates & Resources](https://ena.supply/)
+- [Envy Theme - Gothenburg - Ecommerce Website Template](https://themes.shopify.com/themes/envy/styles/gothenburg)
+- [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list): github
+- [EverythingMoves is a creative studio based in London specialising in CGI, motion design, and live action direc](https://everythingmoves.com/)
+- [Flow Theme - Queenstown - Ecommerce Website Template](https://themes.shopify.com/themes/flow/styles/queenstown?surface_detail=flow&surface_inter_position=1&surface_intra_position=1&surface_type=search)
+- [Infinite Canvas app gallery](https://infinitecanvas.tools/gallery/)
+- [Interface In Game | Collection of video games UI | Screenshots and videos](https://interfaceingame.com/)
+- [INTL Playground](https://playground.intl.international/01/)
+- [Logo Inspiration — 1,300+ Logos & Animated Logos | Logosystem](https://logosystem.co/): llms.txt
+- [Malavika's Notes](https://malavikainmotion.com/)
+- [Payflow IO: Free AI Website Template by Mita — Framer Marketplace](https://www.framer.com/community/marketplace/templates/payflow-io/): llms.txt
+- [Playground Archives | Codrops](http://tympanus.net/codrops/category/playground/)
+- [Prand - animated world](https://prand-n.ava-case.com/)
+- [Recent — Design Inspiration](https://recent.design/)
+- [tidal-motion-ecosystem](https://vucko.co/project/tidal-motion-ecosystem)
+- [Tutorials | Codrops](https://tympanus.net/codrops/category/tutorials/)
+- [UI Garage - Specific UI Design inspiration & Pattern for your design.](https://uigarage.net/)
+- [wrmdrks | Wordmark library](https://wrdmrks.com/)
