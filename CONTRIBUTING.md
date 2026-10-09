@@ -1,6 +1,6 @@
 # Contributing
 
-The whole list lives in [`items.csv`](items.csv). Add or fix a row there; a GitHub Action rebuilds `README.md`, `llms.txt`, `items.json` and the hero image. Please do not edit those four by hand (the next build overwrites them).
+The whole list lives in [`items.csv`](items.csv). Add or fix a row there; a GitHub Action rebuilds the list in `README.md` (the part between the `LIST` markers), `llms.txt`, `items.json` and the hero image. Please do not edit those generated parts by hand (the next build overwrites them). The rest of `README.md` is hand-written, so edits there are welcome.
 
 ## Columns
 

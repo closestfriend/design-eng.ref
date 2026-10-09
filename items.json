@@ -1065,24 +1065,6 @@
   "top_pick": false
  },
  {
-  "title": "Placevalue Ascii Playground",
-  "url": "https://placevalue-ascii.glitch.me",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "high",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Rachel Steele",
-    "channel": "https://www.are.na/rachel-steele/tools-for-creating"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "pppixelate: SVG pixel art pattern maker | fffuel",
   "url": "https://fffuel.co/pppixelate/",
   "applications": [
@@ -1946,24 +1928,6 @@
    }
   ],
   "agent_readable": "llms.txt",
-  "top_pick": false
- },
- {
-  "title": "Denys Verholomchuk UI/UX Designer & Mentor",
-  "url": "https://verholomchuk.com/",
-  "applications": [
-   "Inspiration & reference only"
-  ],
-  "confidence": "high",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Nikita Cheremin",
-    "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
-   }
-  ],
-  "agent_readable": "not found",
   "top_pick": false
  },
  {

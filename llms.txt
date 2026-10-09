@@ -1,6 +1,6 @@
 # UI references for coding agents
 
-> Index of 205 component libraries, motion/GSAP resources, shaders, theming tools and agent skills for building interfaces, grouped by the job they do in a build. Valid as of 2026-10-09. Tags are partly automated; see README.md. Items marked "unverified" are guesses.
+> Index of 203 component libraries, motion/GSAP resources, shaders, theming tools and agent skills for building interfaces, grouped by the job they do in a build. Valid as of 2026-10-09. Tags are partly automated; see README.md. Items marked "unverified" are guesses.
 
 ## Start here
 
@@ -151,7 +151,6 @@ WebGL, canvas, GLSL, dither, 3D, procedural visuals.
 - [KOJIMA — Micro-graphic Generator](https://kojima-san.vercel.app/)
 - [Moved by Noise (Perlin 101)](https://marlonbarrios.github.io/animated_grid_lines/)
 - [Offscreen Canvas](https://offscreencanvas.com/)
-- [Placevalue Ascii Playground](https://placevalue-ascii.glitch.me)
 - [pppixelate: SVG pixel art pattern maker | fffuel](https://fffuel.co/pppixelate/)
 - [Reaction diffusion simulation](https://pmneila.github.io/jsexp/grayscott/)
 - [Reaction-Diffusion Explorer Tool](https://karlsims.com/rdtool.html?s=WLjznPc5eh7K9008W3)
@@ -266,7 +265,6 @@ Galleries and showcases. Nothing to install; useful for taste.
 - [Codrops | Keeping web professionals inspired & up-to-date since 2009](https://tympanus.net/codrops/)
 - [Creative Hub | Codrops](https://tympanus.net/codrops/hub/)
 - [Deck.Gallery® — Beautifully designed decks, curated](https://www.deck.gallery/): llms.txt
-- [Denys Verholomchuk UI/UX Designer & Mentor](https://verholomchuk.com/)
 - [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/)
 - [Design Systems](https://designsystems.surf/design-systems)
 - [Discover iOS apps | Mobbin](https://mobbin.com/discover/apps/ios/latest): llms.txt

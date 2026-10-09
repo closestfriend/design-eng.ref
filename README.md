@@ -9,20 +9,17 @@
 
 Component libraries, motion and GSAP resources, shaders, theming tools and agent skills worth handing to a coding agent when you are building interfaces.
 
-It is sorted by **the job a thing does in a build**, not by what kind of resource it is, so you can ask "I'm building a hero section, what do I give my agent?" and get an answer. Collected over years in [Are.na](https://www.are.na) by [closestfriend](https://github.com/closestfriend).
-
-> [!TIP]
-> Point an agent at [`llms.txt`](llms.txt) for a compact index, or at [`items.json`](items.json) / [`items.csv`](items.csv) to filter by job. Links marked `llms.txt` or *shadcn registry* are the easiest to hand over: the docs are machine-readable, or the code installs with one command.
+It is sorted by **the job a thing does in a build**, not by what kind of resource it is. Curated over years in [Are.na](https://www.are.na) by [closestfriend](https://github.com/closestfriend), with many of the links found through other people's channels (credits below).
 
 > [!NOTE]
-> The tags are **LLM-assigned and only partly hand-checked**: ★ picks by hand, and the least certain links by opening each page in a browser. Anything that is still a guess is marked _tag unverified_ (a hollow square above). See [how this was made](#how-this-was-made).
+> An AI model helped organize and tag this list, and the tags are only partly hand-checked, so expect some to be off. See [how this was made](#how-this-was-made).
 
 <!-- LIST:START -->
-**205 links** · valid as of 2026-10-09 · 30 start-here picks (★) · no tags flagged as unverified
+**203 links** · valid as of 2026-10-09 · 30 start-here picks (★)
 
 ## Start here
 
-The picks I would hand a coding agent first. Most publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.
+Where to start. 15 of these 30 publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.
 
 | Pick | Job | Agent-readable | Note |
 |---|---|---|---|
@@ -150,7 +147,7 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 </details>
 
 <details>
-<summary><b>Backgrounds, shaders &amp; generative visuals</b> (54) — WebGL, canvas, GLSL, dither, 3D, procedural visuals.</summary>
+<summary><b>Backgrounds, shaders &amp; generative visuals</b> (53) — WebGL, canvas, GLSL, dither, 3D, procedural visuals.</summary>
 
 - ★ [Canvas UI: Creative Canvas and WebGL Component Library](https://canvasui.dev/) — `llms.txt` · shadcn registry (also: Core components & primitives)
 - ★ [Paper Shaders – Ultra-fast zero-dependency shaders](https://shaders.paper.design/) — `llms.txt`
@@ -179,7 +176,6 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [Megabound/dither-shitter: Tools for dithering](https://github.com/Megabound/dither-shitter?tab=readme-ov-file) — GitHub
 - [Moved by Noise (Perlin 101)](https://marlonbarrios.github.io/animated_grid_lines/)
 - [Offscreen Canvas](https://offscreencanvas.com/) (also: Inspiration & reference only)
-- [Placevalue Ascii Playground](https://placevalue-ascii.glitch.me)
 - [pppixelate: SVG pixel art pattern maker | fffuel](https://fffuel.co/pppixelate/)
 - [raphaelameaume/fragment: [alpha] A web development environment for creative coding](https://github.com/raphaelameaume/fragment) — GitHub
 - [Reaction diffusion simulation](https://pmneila.github.io/jsexp/grayscott/)
@@ -287,7 +283,7 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 </details>
 
 <details>
-<summary><b>Inspiration &amp; reference only</b> (34) — Galleries and showcases. Nothing to install; useful for taste.</summary>
+<summary><b>Inspiration &amp; reference only</b> (33) — Galleries and showcases. Nothing to install; useful for taste.</summary>
 
 - ★ [DesEngs: Resources for Design Engineers](https://desengs.com/)
 - ★ [Interface Craft](https://www.interfacecraft.dev/)
@@ -300,7 +296,6 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [Codrops | Keeping web professionals inspired & up-to-date since 2009](https://tympanus.net/codrops/)
 - [Creative Hub | Codrops](https://tympanus.net/codrops/hub/)
 - [Deck.Gallery® — Beautifully designed decks, curated](https://www.deck.gallery/) — `llms.txt`
-- [Denys Verholomchuk UI/UX Designer & Mentor](https://verholomchuk.com/)
 - [Design Systems](https://designsystems.surf/design-systems)
 - [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/)
 - [Discover iOS apps | Mobbin](https://mobbin.com/discover/apps/ios/latest) — `llms.txt`
@@ -339,9 +334,9 @@ Most of these links were found through other people's public [Are.na](https://ww
 - Kirill Kuznetsov: [resources-veogmafl1lg](https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg) (14)
 - Dmytro Horeniuk: [web-tools-odb4oktvfdk](https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk) (10)
 - bill stellar: [tools-resources-qrd5bmyvd_0](https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0) (8)
-- Rachel Steele: [tools-for-creating](https://www.are.na/rachel-steele/tools-for-creating) (8)
 - claire r: [tools-toys-vg9uiwetfsw](https://www.are.na/claire-r/tools-toys-vg9uiwetfsw) (7)
-- Nikita Cheremin: [beautiful-web-ukkly1taacg](https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg) (7)
+- Rachel Steele: [tools-for-creating](https://www.are.na/rachel-steele/tools-for-creating) (7)
+- Nikita Cheremin: [beautiful-web-ukkly1taacg](https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg) (6)
 - Samuel Platten: [system-design-z4qqdexy9oi](https://www.are.na/samuel-platten/system-design-z4qqdexy9oi) (6)
 - Chelsi Cocking: [creative-coding-library](https://www.are.na/chelsi-cocking/creative-coding-library) (4)
 - New Name: [interesting-tools-dgn1vah3udc](https://www.are.na/new-name/interesting-tools-dgn1vah3udc) (4)
@@ -362,9 +357,10 @@ Most of these links were found through other people's public [Are.na](https://ww
 
 ## How this was made
 
-- Candidates were picked from saved Are.na links by keyword, then tagged by an LLM from each link's title, URL and description. Where that first guess was low-confidence, the tag was re-checked against the fetched page text, and the links that were still unclear were opened in a real browser; the ones that turned out to be off-topic, dead or unverifiable were dropped. None of these passes reads the code of a project, so "a good library" is my judgement, not a test result.
-- The ★ start-here picks were checked by hand.
-- `llms.txt` / shadcn-registry detection means a real file was fetched from the site root on the date above. "Not found" does not mean there are no docs.
+- I curated these in Are.na over years. An AI model then helped me organize them and get them ready to share: it picked the UI-relevant ones from my saves by keyword, grouped them by job, and tagged each from its title, URL and description. Where its first guess was uncertain, the tag was re-checked against the page text, and links that were still unclear were opened in a real browser; ones that turned out to be off-topic, dead or unverifiable were dropped.
+- The ★ start-here picks are the strongest of these for handing to an agent, chosen with the AI's help from what each one publishes and does.
+- Nobody ran or tested these libraries, so which ones are good is my judgement, not a benchmark.
+- `llms.txt` / shadcn-registry detection means a real file was fetched from the site root when checked (October 2026). "Not found" does not mean there are no docs.
 - Dead, parked and hijacked domains were removed at check time (2026-10-09). Links rot; if you hit one, open an issue or a PR.
 - The README list, `llms.txt`, `items.json` and the hero image are all generated from [`items.csv`](items.csv) by [`scripts/build.mjs`](scripts/build.mjs). Edit the CSV, not the generated files.
 

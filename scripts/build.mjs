@@ -144,9 +144,10 @@ const line = (it) => {
 function listMarkdown() {
   const out = [];
   const unverified = items.filter((it) => it.confidence === 'low').length;
-  out.push(`**${items.length} links** · valid as of ${VALID_AS_OF} · ${picks.length} start-here picks (★) · ${unverified ? `${unverified} unverified tags` : 'no tags flagged as unverified'}\n`);
+  out.push(`**${items.length} links** · valid as of ${VALID_AS_OF} · ${picks.length} start-here picks (★)${unverified ? ` · ${unverified} unverified tags` : ''}\n`);
   out.push('## Start here\n');
-  out.push('The picks I would hand a coding agent first. Most publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.\n');
+  const readable = picks.filter((it) => /llms\.txt|shadcn/.test(it.agentReadable)).length;
+  out.push(`Where to start. ${readable} of these ${picks.length} publish \`llms.txt\` or a shadcn registry, so an agent can read the docs or install the code directly.\n`);
   out.push('| Pick | Job | Agent-readable | Note |\n|---|---|---|---|');
   for (const it of picks) {
     out.push(`| [${mdEsc(it.title)}](${it.url}) | ${primary(it)} | ${mdEsc(flags(it).filter((x) => !x.startsWith('_')).join(', ') || '-')} | ${mdEsc(it.note)} |`);
