@@ -104,13 +104,15 @@ function hero(theme) {
     });
   });
   const ly = H - 26;
+  const hasLow = items.some((it) => it.confidence === 'low');
+  const pickX = hasLow ? 250 : 70; // the "unverified" legend entry only appears when there are unverified links
   const legend = `
   <rect x="${x0}" y="${ly - 9}" width="10" height="10" rx="2" fill="${mute}"/>
-  <text x="${x0 + 16}" y="${ly}" font-size="12" fill="${mute}">checked tag</text>
+  <text x="${x0 + 16}" y="${ly}" font-size="12" fill="${mute}">${hasLow ? 'checked tag' : 'link'}</text>${hasLow ? `
   <rect x="${x0 + 112}" y="${ly - 8.25}" width="8.5" height="8.5" rx="2" fill="none" stroke="${mute}" stroke-width="1.5"/>
-  <text x="${x0 + 128}" y="${ly}" font-size="12" fill="${mute}">unverified tag</text>
-  <rect x="${x0 + 250}" y="${ly - 9}" width="10" height="10" rx="2" fill="${mute}" stroke="${fg}" stroke-width="1.5"/>
-  <text x="${x0 + 266}" y="${ly}" font-size="12" fill="${mute}">start-here pick</text>
+  <text x="${x0 + 128}" y="${ly}" font-size="12" fill="${mute}">unverified tag</text>` : ''}
+  <rect x="${x0 + pickX}" y="${ly - 9}" width="10" height="10" rx="2" fill="${mute}" stroke="${fg}" stroke-width="1.5"/>
+  <text x="${x0 + pickX + 16}" y="${ly}" font-size="12" fill="${mute}">start-here pick</text>
   <text x="${x0 + totalW}" y="${ly}" font-size="12" fill="${mute}" text-anchor="end">one square = one link · valid as of ${VALID_AS_OF}</text>`;
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 ${H}" width="1200" height="${H}" role="img" aria-labelledby="t d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
   <title id="t">UI references for coding agents</title>
@@ -141,7 +143,8 @@ const line = (it) => {
 
 function listMarkdown() {
   const out = [];
-  out.push(`**${items.length} links** · valid as of ${VALID_AS_OF} · ${picks.length} start-here picks (★)\n`);
+  const unverified = items.filter((it) => it.confidence === 'low').length;
+  out.push(`**${items.length} links** · valid as of ${VALID_AS_OF} · ${picks.length} start-here picks (★) · ${unverified ? `${unverified} unverified tags` : 'no tags flagged as unverified'}\n`);
   out.push('## Start here\n');
   out.push('The picks I would hand a coding agent first. Most publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.\n');
   out.push('| Pick | Job | Agent-readable | Note |\n|---|---|---|---|');

@@ -344,12 +344,11 @@
   "title": "Interface Craft",
   "url": "https://www.interfacecraft.dev/",
   "applications": [
-   "Micro-interactions & transitions",
    "Inspiration & reference only"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
-  "note": "Interface Craft, a working library for designing with care.",
+  "note": "A course and library on interface design craft, with lessons on working with Claude Code and v0.",
   "curators": [
    {
     "name": "Shanik Tanna",
@@ -579,60 +578,6 @@
   "top_pick": true
  },
  {
-  "title": "dmarx/luria: A simple but effective project memory framework based on change management principles. Luria trac",
-  "url": "https://github.com/dmarx/luria",
-  "applications": [
-   "Agent skills & motion vocabulary"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "New Name",
-    "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "langgptai/awesome-claude-prompts: This repo includes Claude prompt curation to use Claude better.",
-  "url": "https://github.com/langgptai/awesome-claude-prompts",
-  "applications": [
-   "Agent skills & motion vocabulary"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Shanik Tanna",
-    "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "latentwill/ideonomy-skill: A Claude Code skill for expanding ideas via Patrick Gunkel's ideonomy, synthesized",
-  "url": "https://github.com/latentwill/ideonomy-skill",
-  "applications": [
-   "Agent skills & motion vocabulary"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "New Name",
-    "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
   "title": "staltz/microskills: Modular prompts I use every day",
   "url": "https://github.com/staltz/microskills",
   "applications": [
@@ -682,24 +627,6 @@
   "top_pick": false
  },
  {
-  "title": "ASCII Animation Generator",
-  "url": "https://cdn.thefurrow.tv/assets/asciixgpt.html",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Dominik VD",
-    "channel": "https://www.are.na/dominik-vd/tools-_w-nwn_y3qs"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "Borelais",
   "url": "https://marlonbarrios.github.io/animated_lines_sound/",
   "applications": [
@@ -712,24 +639,6 @@
    {
     "name": "Marlon Barrios Solano",
     "channel": "https://www.are.na/marlon-barrios-solano/form-motion-studies-apps"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "ccclaymoji: claymorphism-style SVG emoji maker",
-  "url": "https://fffuel.co/ccclaymoji/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Rachel Steele",
-    "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
   "agent_readable": "not found",
@@ -751,24 +660,6 @@
    }
   ],
   "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "ColorCycle.js",
-  "url": "https://framer.com/m/framer/ColorCycle.js",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Shanik Tanna",
-    "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
-   }
-  ],
-  "agent_readable": "llms.txt",
   "top_pick": false
  },
  {
@@ -825,24 +716,6 @@
    }
   ],
   "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "Demos — Fabric.js Javascript Canvas Library",
-  "url": "http://fabricjs.com/demos/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "kim kleinert",
-    "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
-   }
-  ],
-  "agent_readable": "not found",
   "top_pick": false
  },
  {
@@ -927,28 +800,6 @@
   "top_pick": false
  },
  {
-  "title": "Effect.app — Online Image & Video Effects",
-  "url": "https://effect.app/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "claire r",
-    "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
-   },
-   {
-    "name": "Kirill Kuznetsov",
-    "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "eng.basement.studio",
   "url": "https://eng.basement.studio/tools/shader-lab",
   "applications": [
@@ -967,24 +818,6 @@
   "top_pick": false
  },
  {
-  "title": "Explore Effects & Presets | Effect.app",
-  "url": "https://effect.app/explore",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "claire r",
-    "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "Eyecandy - Visual Technique Library",
   "url": "https://eyecannndy.com/",
   "applications": [
@@ -1000,19 +833,6 @@
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "Fashion & Style 3D Models",
-  "url": "https://sketchfab.com/store/3d-models/fashion-style?animated=1&ref=header",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [],
   "agent_readable": "not found",
   "top_pick": false
  },
@@ -1072,42 +892,6 @@
   "top_pick": false
  },
  {
-  "title": "LingDong-/irregularity · GitHub",
-  "url": "https://github.com/LingDong-/irregularity",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Everest Pipkin",
-    "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "makew0rld/didder: An extensive, fast, and accurate command-line image dithering tool.",
-  "url": "https://github.com/makew0rld/didder",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Sam Dal Monte",
-    "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
   "title": "Megabound/dither-shitter: Tools for dithering",
   "url": "https://github.com/Megabound/dither-shitter?tab=readme-ov-file",
   "applications": [
@@ -1138,24 +922,6 @@
    {
     "name": "Chelsi Cocking",
     "channel": "https://www.are.na/chelsi-cocking/creative-coding-library"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "texturedesign/texturize: 🤖🖌️ Generate photo-realistic textures based on source images. Remix, remake,",
-  "url": "https://github.com/texturedesign/texturize",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Sam Dal Monte",
-    "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
   "agent_readable": "github",
@@ -1217,55 +983,6 @@
   "top_pick": false
  },
  {
-  "title": "How We Animated Trillions of Tons of Flowing Ice",
-  "url": "http://dwtkns.com/posts/flowing-ice.html",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Sam Dal Monte",
-    "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "HTML Wind Chime System",
-  "url": "https://1huali.github.io/windchime/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "iiisometric: 3D-like isometric design builder",
-  "url": "https://fffuel.co/iiisometric/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Rachel Steele",
-    "channel": "https://www.are.na/rachel-steele/tools-for-creating"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "javascript - three js clickable objects - Stack Overflow",
   "url": "https://stackoverflow.com/questions/17638933/three-js-clickable-objects",
   "applications": [
@@ -1295,9 +1012,10 @@
   "title": "Motion Playground",
   "url": "https://motion-playground-steel.vercel.app/liquify",
   "applications": [
-   "Backgrounds, shaders & generative visuals"
+   "Text effects & type motion",
+   "Micro-interactions & transitions"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
   "note": "",
   "curators": [
@@ -1347,37 +1065,6 @@
   "top_pick": false
  },
  {
-  "title": "photogeniq/neural-texturize",
-  "url": "https://github.com/photogeniq/neural-texturize",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Sam Dal Monte",
-    "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "Pixelise SVG",
-  "url": "https://awesomephant.github.io/pixelise-svg/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "Placevalue Ascii Playground",
   "url": "https://placevalue-ascii.glitch.me",
   "applications": [
@@ -1401,7 +1088,7 @@
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
   "note": "",
   "curators": [
@@ -1659,19 +1346,6 @@
   "top_pick": false
  },
  {
-  "title": "Texturelib - free texture library",
-  "url": "http://texturelib.com/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "Three.js – JavaScript 3D library",
   "url": "https://threejs.org/",
   "applications": [
@@ -1793,24 +1467,6 @@
    {
     "name": "Levi Barrenechea",
     "channel": "https://www.are.na/levi-barrenechea/tools-4l6tvdajyoq"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "Vite + React",
-  "url": "https://solst-ice.github.io/pxl-srt/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "claire r",
-    "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
   "agent_readable": "not found",
@@ -2080,7 +1736,7 @@
   "applications": [
    "Core components & primitives"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
   "note": "",
   "curators": [
@@ -2205,30 +1861,12 @@
   "top_pick": false
  },
  {
-  "title": "Catalogue — every Arqé template | Arqé",
-  "url": "https://arqe.ai/catalogue",
-  "applications": [
-   "Inspiration & reference only"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Shanik Tanna",
-    "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
-   }
-  ],
-  "agent_readable": "llms.txt",
-  "top_pick": false
- },
- {
   "title": "CodePen",
   "url": "https://codepen.io/",
   "applications": [
    "Inspiration & reference only"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
   "note": "",
   "curators": [
@@ -2405,24 +2043,6 @@
   "top_pick": false
  },
  {
-  "title": "Dynamic Motion Templates – Bold, Engaging Design Projects – 6TM® MAGAZINE",
-  "url": "https://shop.6tm-magazine.com/collections/motion",
-  "applications": [
-   "Inspiration & reference only"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Kirill Kuznetsov",
-    "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
-   }
-  ],
-  "agent_readable": "llms.txt",
-  "top_pick": false
- },
- {
   "title": "Elliot Vredenburg Promotional Website",
   "url": "https://ellio.tv/",
   "applications": [
@@ -2486,7 +2106,7 @@
   "applications": [
    "Inspiration & reference only"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
   "note": "",
   "curators": [
@@ -2612,24 +2232,6 @@
    }
   ],
   "agent_readable": "llms.txt",
-  "top_pick": false
- },
- {
-  "title": "Malavika's Notes",
-  "url": "https://malavikainmotion.com/",
-  "applications": [
-   "Inspiration & reference only"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "BOEM LE HACHOIR",
-    "channel": "https://www.are.na/boem-le-hachoir/web-design-c5jm7slhsfg"
-   }
-  ],
-  "agent_readable": "not found",
   "top_pick": false
  },
  {
@@ -2911,24 +2513,6 @@
   "top_pick": false
  },
  {
-  "title": "cohost!",
-  "url": "https://cohost.org/-12/post/240461-svg-animate-attribu",
-  "applications": [
-   "Layout & CSS technique"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Sam Dal Monte",
-    "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "Conditional Border Radius In CSS - Ahmad Shadeed",
   "url": "https://ishadeed.com/article/conditional-border-radius/",
   "applications": [
@@ -3088,24 +2672,6 @@
    }
   ],
   "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "AndreasFaust/awesome-styled-components: A curated list of awesome styled-components resources 💅",
-  "url": "https://github.com/AndreasFaust/awesome-styled-components",
-  "applications": [
-   "Layout & CSS technique"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Shanik Tanna",
-    "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
-   }
-  ],
-  "agent_readable": "github",
   "top_pick": false
  },
  {
@@ -3420,7 +2986,7 @@
   "applications": [
    "Layout & CSS technique"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
   "note": "",
   "curators": [
@@ -3551,7 +3117,7 @@
    "Loaders & AI/agent status",
    "Inspiration & reference only"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "paid": false,
   "note": "",
   "curators": [
@@ -3652,24 +3218,6 @@
    }
   ],
   "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "LottieFiles for WordPress Plugin: Add Animations to WordPress for Free",
-  "url": "https://lottiefiles.com/plugins/wordpress",
-  "applications": [
-   "Micro-interactions & transitions"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Shanik Tanna",
-    "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
-   }
-  ],
-  "agent_readable": "llms.txt",
   "top_pick": false
  },
  {
@@ -3912,25 +3460,6 @@
   "top_pick": false
  },
  {
-  "title": "My favourite piece of motion design this week, and its not even animation. 'Pretext' by Cheng Lou hand",
-  "url": "https://www.linkedin.com/posts/christian-wheeler-a7b77719a_my-favourite-piece-of-motion-design-this-ugcPost-7447085067245412352-Y543",
-  "applications": [
-   "Text effects & type motion",
-   "Inspiration & reference only"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Abby Bingham",
-    "channel": "https://www.are.na/abby-bingham-rjxgktgn48y/motion-2nsdiwsvrfw"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "rutherfordcraze/variable-animation",
   "url": "https://github.com/rutherfordcraze/variable-animation",
   "applications": [
@@ -3946,43 +3475,6 @@
    }
   ],
   "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "Studio Blou - Motion Type",
-  "url": "https://studioblou.tv/tools/motiontype/",
-  "applications": [
-   "Text effects & type motion"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Shanik Tanna",
-    "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
-  "title": "Type Dither",
-  "url": "https://typedither.vercel.app/",
-  "applications": [
-   "Text effects & type motion",
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "claire r",
-    "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
-   }
-  ],
-  "agent_readable": "not found",
   "top_pick": false
  },
  {
@@ -4282,24 +3774,6 @@
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
-   }
-  ],
-  "agent_readable": "github",
-  "top_pick": false
- },
- {
-  "title": "~ soft aesthetic ~",
-  "url": "https://github.com/soft-aesthetic",
-  "applications": [
-   "Theming, color & tokens"
-  ],
-  "confidence": "low",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Tyler Deitz",
-    "channel": "https://www.are.na/tyler-deitz/using-github-in-interesting-ways"
    }
   ],
   "agent_readable": "github",
