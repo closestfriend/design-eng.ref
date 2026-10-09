@@ -1,12 +1,13 @@
 [
  {
-  "title": "GitHub - emilkowalski/skills: Skills for Design Engineers.",
+  "title": "emilkowalski/skills",
   "url": "https://github.com/emilkowalski/skills",
   "applications": [
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "Skills for design engineers, for coding agents.",
   "curators": [
    {
     "name": "Shanik Tanna",
@@ -17,25 +18,26 @@
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": true
  },
  {
-  "title": "GitHub - ibelick/ui-skills: Skills for Design Engineers",
+  "title": "ibelick/ui-skills",
   "url": "https://github.com/ibelick/ui-skills",
   "applications": [
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "Skills for design engineers, for coding agents.",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": true
  },
  {
   "title": "Canvas UI: Creative Canvas and WebGL Component Library",
@@ -45,15 +47,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt + shadcn-registry",
+  "paid": false,
+  "note": "Canvas/WebGL effect components, framework-agnostic. Ships a shadcn registry.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt + shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "Paper Shaders – Ultra-fast zero-dependency shaders",
@@ -62,15 +65,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "Zero-dependency shaders for React and GLSL; full docs for LLMs.",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": true
  },
  {
   "title": "Retro Dither | Canvas UI",
@@ -79,15 +83,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt + shadcn-registry",
+  "paid": false,
+  "note": "Canvas/WebGL effect components, framework-agnostic. Ships a shadcn registry.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt + shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "Graphical",
@@ -98,15 +103,16 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "Create visual themes and customize components; built to work with a coding agent.",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "knadh/oat: Ultra-lightweight, zero dependency, semantic HTML/CSS/JS UI library",
@@ -115,15 +121,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "Ultra-lightweight, zero-dependency semantic HTML/CSS/JS UI library.",
   "curators": [
    {
     "name": "New Name",
     "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": true
  },
  {
   "title": "Pixel Perfect UI — Lightweight UI Library for React",
@@ -132,15 +139,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "shadcn-registry",
+  "paid": false,
+  "note": "Lightweight React UI library and Framer Motion blocks.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "SmolCSS",
@@ -150,15 +158,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "Small CSS snippets.",
   "curators": [
    {
     "name": "New Name",
     "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "The Component Gallery",
@@ -168,15 +177,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "The Component Gallery: how real design systems name and build components.",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "DesEngs: Resources for Design Engineers",
@@ -185,7 +195,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "Resources for design engineers.",
   "curators": [
    {
     "name": "Shanik Tanna",
@@ -196,8 +207,8 @@
     "channel": "https://www.are.na/samuel-platten/system-design-z4qqdexy9oi"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "Generative Loaders — text, inline, and image loaders for React",
@@ -206,15 +217,16 @@
    "Loaders & AI/agent status"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "Text, inline and image loaders for React.",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "Thinking Orbs - AI Status Indicator Components for React",
@@ -223,15 +235,16 @@
    "Loaders & AI/agent status"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "Animated status orbs for AI agent UIs (thinking, searching, compacting).",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": true
  },
  {
   "title": "Amicro — Premium React Micro-transitions & Interaction Components",
@@ -240,15 +253,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "shadcn-registry",
+  "paid": false,
+  "note": "React micro-transitions, installable via shadcn registry.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "Animation Vocabulary — A Glossary of Animation Patterns",
@@ -258,15 +272,16 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "91 named animation patterns, for briefing an AI or designer on motion.",
   "curators": [
    {
     "name": "Samuel Platten",
     "channel": "https://www.are.na/samuel-platten/system-design-z4qqdexy9oi"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": true
  },
  {
   "title": "apple-design Skill - emilkowalski | UI Skills",
@@ -276,15 +291,16 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "Registry of skills for design engineers, aimed at coding agents.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": true
  },
  {
   "title": "Fancy Components",
@@ -294,15 +310,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt + shadcn-registry",
+  "paid": false,
+  "note": "Playful React/TypeScript/Tailwind/Motion components.",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt + shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "Framer Motion Components | Pixel Perfect UI",
@@ -312,15 +329,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "shadcn-registry",
+  "paid": false,
+  "note": "Lightweight React UI library and Framer Motion blocks.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "Interface Craft",
@@ -330,24 +348,26 @@
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "Interface Craft, a working library for designing with care.",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
-  "title": "Motion One: The Web Animations API for everyone",
+  "title": "Motion (formerly Framer Motion)",
   "url": "https://motion.dev/",
   "applications": [
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "Motion (formerly Framer Motion): JavaScript and React animation library.",
   "curators": [
    {
     "name": "Shanik Tanna",
@@ -358,8 +378,8 @@
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": true
  },
  {
   "title": "Motionwind — Motion animations as Tailwind classes",
@@ -368,15 +388,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "Motion animations as Tailwind-style utility classes; docs written for LLMs.",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": true
  },
  {
   "title": "Originkit — Free Animated component library for modern websites",
@@ -386,15 +407,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "Free animated component library.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "React UI Components | ObsidianUI",
@@ -404,15 +426,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt + shadcn-registry",
+  "paid": false,
+  "note": "React components with full source downloads.",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "llms.txt + shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "The Vocabulary of Motion",
@@ -422,15 +445,16 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "A vocabulary of UI motion terms.",
   "curators": [
    {
     "name": "Samuel Platten",
     "channel": "https://www.are.na/samuel-platten/system-design-z4qqdexy9oi"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "Transitions.dev: UI transitions for AI agents",
@@ -440,15 +464,16 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "UI transitions aimed at AI agents.",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "GSAP Motion Components for React & Vue | Annnimate",
@@ -458,7 +483,8 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": true,
+  "note": "GSAP motion components for React and Vue. Paid library.",
   "curators": [
    {
     "name": "Samuel Platten",
@@ -473,8 +499,8 @@
     "channel": "https://www.are.na/dominik-vd/tools-_w-nwn_y3qs"
    }
   ],
-  "top_pick": true,
-  "paid": true
+  "agent_readable": "llms.txt",
+  "top_pick": true
  },
  {
   "title": "Lenis – Get smooth or die trying",
@@ -483,7 +509,8 @@
    "Scroll & page motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "Lenis: smooth scroll.",
   "curators": [
    {
     "name": "Sam Dal Monte",
@@ -494,8 +521,8 @@
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "The GSAP Field™ — A motion playground by BYQ",
@@ -504,15 +531,16 @@
    "Scroll & page motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "A GSAP motion playground.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
   "title": "slot-text — tiny text roll animation",
@@ -521,32 +549,34 @@
    "Text effects & type motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "slot-text: tiny text roll animation.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": true
  },
  {
-  "title": "Beautiful themes for shadcn/ui — tweakcn | Theme Editor & Generator",
+  "title": "tweakcn: themes for shadcn/ui",
   "url": "https://tweakcn.com/",
   "applications": [
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "shadcn-registry",
+  "paid": false,
+  "note": "Visual theme editor and generator for shadcn/ui.",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": true,
-  "paid": false
+  "agent_readable": "shadcn-registry",
+  "top_pick": true
  },
  {
   "title": "dmarx/luria: A simple but effective project memory framework based on change management principles. Luria trac",
@@ -555,49 +585,52 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "New Name",
     "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - langgptai/awesome-claude-prompts: This repo includes Claude prompt curation to use Claude better.",
+  "title": "langgptai/awesome-claude-prompts: This repo includes Claude prompt curation to use Claude better.",
   "url": "https://github.com/langgptai/awesome-claude-prompts",
   "applications": [
    "Agent skills & motion vocabulary"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "latentwill/ideonomy-skill: A Claude Code skill for expanding ideas via Patrick Gunkel's ideonomy, synthesized ",
+  "title": "latentwill/ideonomy-skill: A Claude Code skill for expanding ideas via Patrick Gunkel's ideonomy, synthesized",
   "url": "https://github.com/latentwill/ideonomy-skill",
   "applications": [
    "Agent skills & motion vocabulary"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "New Name",
     "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "staltz/microskills: Modular prompts I use every day",
@@ -606,15 +639,16 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "New Name",
     "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "*p5.brush - Brush that canvas!",
@@ -623,15 +657,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Chelsi Cocking",
     "channel": "https://www.are.na/chelsi-cocking/creative-coding-library"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "3D Photo Effects free online app",
@@ -640,10 +675,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "ASCII Animation Generator",
@@ -652,15 +688,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dominik VD",
     "channel": "https://www.are.na/dominik-vd/tools-_w-nwn_y3qs"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Borelais",
@@ -669,15 +706,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Marlon Barrios Solano",
     "channel": "https://www.are.na/marlon-barrios-solano/form-motion-studies-apps"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "ccclaymoji: claymorphism-style SVG emoji maker",
@@ -686,15 +724,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "codepen.io",
@@ -703,15 +742,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "ColorCycle.js",
@@ -720,15 +760,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Creating a Pencil Effect in SVG",
@@ -738,15 +779,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS 3D Clouds",
@@ -756,15 +798,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
     "channel": "https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "davidsiaw/hexlife",
@@ -773,15 +816,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Demos — Fabric.js Javascript Canvas Library",
@@ -790,15 +834,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "dither in the browser with the power of CSS | maya.land",
@@ -808,15 +853,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "DotForge — Real-Time Dither Animation Builder",
@@ -825,10 +871,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Dynamic Phyllotaxis 01",
@@ -837,15 +884,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Marlon Barrios Solano",
     "channel": "https://www.are.na/marlon-barrios-solano/form-motion-studies-apps"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Efecto - Free ASCII Art & Dithering Effects Tool",
@@ -854,10 +902,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Efecto - Free ASCII Art & Dithering Effects Tool",
@@ -866,15 +915,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Effect.app — Online Image & Video Effects",
@@ -883,7 +933,8 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
@@ -894,8 +945,8 @@
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "eng.basement.studio",
@@ -904,15 +955,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Explore Effects & Presets | Effect.app",
@@ -921,15 +973,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Eyecandy - Visual Technique Library",
@@ -939,15 +992,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Fashion & Style 3D Models",
@@ -956,10 +1010,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "free SVG generators, web design tools & modern HTML templates",
@@ -969,151 +1024,160 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
     "channel": "https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "GitHub - aahdee/p5grid: An implementation of triangle, square, hexagon, and octagon grids for p5.js.",
+  "title": "aahdee/p5grid: An implementation of triangle, square, hexagon, and octagon grids for p5.js.",
   "url": "https://github.com/aahdee/p5grid",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - LingDong-/fishdraw: procedurally generated fish drawings",
+  "title": "LingDong-/fishdraw: procedurally generated fish drawings",
   "url": "https://github.com/LingDong-/fishdraw",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - LingDong-/irregularity · GitHub",
+  "title": "LingDong-/irregularity · GitHub",
   "url": "https://github.com/LingDong-/irregularity",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - makew0rld/didder: An extensive, fast, and accurate command-line image dithering tool.",
+  "title": "makew0rld/didder: An extensive, fast, and accurate command-line image dithering tool.",
   "url": "https://github.com/makew0rld/didder",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - Megabound/dither-shitter: Tools for dithering",
+  "title": "Megabound/dither-shitter: Tools for dithering",
   "url": "https://github.com/Megabound/dither-shitter?tab=readme-ov-file",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - raphaelameaume/fragment: [alpha] A web development environment for creative coding",
+  "title": "raphaelameaume/fragment: [alpha] A web development environment for creative coding",
   "url": "https://github.com/raphaelameaume/fragment",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Chelsi Cocking",
     "channel": "https://www.are.na/chelsi-cocking/creative-coding-library"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - texturedesign/texturize: 🤖🖌️ Generate photo-realistic textures based on source images. Remix, remake,",
+  "title": "texturedesign/texturize: 🤖🖌️ Generate photo-realistic textures based on source images. Remix, remake,",
   "url": "https://github.com/texturedesign/texturize",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - urbit/sigil-js: ~4.2 billion default profile pics",
+  "title": "urbit/sigil-js: ~4.2 billion default profile pics",
   "url": "https://github.com/urbit/sigil-js",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Grainy Gradients | CSS-Tricks",
@@ -1123,15 +1187,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "gwygonik/PerlinRiver",
@@ -1140,15 +1205,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "How We Animated Trillions of Tons of Flowing Ice",
@@ -1157,15 +1223,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "HTML Wind Chime System",
@@ -1174,10 +1241,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "iiisometric: 3D-like isometric design builder",
@@ -1186,15 +1254,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "javascript - three js clickable objects - Stack Overflow",
@@ -1203,10 +1272,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "KOJIMA — Micro-graphic Generator",
@@ -1215,10 +1285,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Motion Playground",
@@ -1227,15 +1298,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Moved by Noise (Perlin 101)",
@@ -1244,15 +1316,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Marlon Barrios Solano",
     "channel": "https://www.are.na/marlon-barrios-solano/form-motion-studies-apps"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Offscreen Canvas",
@@ -1262,15 +1335,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Chelsi Cocking",
     "channel": "https://www.are.na/chelsi-cocking/creative-coding-library"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "photogeniq/neural-texturize",
@@ -1279,15 +1353,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Pixelise SVG",
@@ -1296,10 +1371,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Placevalue Ascii Playground",
@@ -1308,15 +1384,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "pppixelate: SVG pixel art pattern maker | fffuel",
@@ -1325,15 +1402,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "cucumber  salad",
     "channel": "https://www.are.na/cucumber-salad/design-libraries-resources-and-tools"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Reaction diffusion simulation",
@@ -1342,15 +1420,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Reaction-Diffusion Explorer Tool",
@@ -1359,15 +1438,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Reaction-Diffusion Explorer Tool",
@@ -1376,10 +1456,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "SculptGL - A WebGL sculpting app",
@@ -1388,15 +1469,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
     "channel": "https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "SebLague/Slime-Simulation",
@@ -1405,15 +1487,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
     "channel": "https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Shader lab | Alembic",
@@ -1422,15 +1505,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "ShaderGPT",
@@ -1439,15 +1523,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "ShaderGPT",
@@ -1456,15 +1541,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Shaders",
@@ -1474,15 +1560,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "ShprAlex/SproutLife",
@@ -1491,15 +1578,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
     "channel": "https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Simple pencil + ink pen effect for SVG path using filters / Olivia Vane | Observable",
@@ -1509,15 +1597,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Spherium | Advanced WebGL Globe & Map Generator",
@@ -1526,15 +1615,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Strings",
@@ -1543,10 +1633,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "SVG Filters",
@@ -1556,15 +1647,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Texturelib - free texture library",
@@ -1573,10 +1665,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Three.js – JavaScript 3D library",
@@ -1585,10 +1678,11 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Topographic Map Animation",
@@ -1597,15 +1691,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Erwin Sanvictores",
     "channel": "https://www.are.na/erwin-sanvictores/motion_design_ideas"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "tsulej/GenerateMe",
@@ -1614,15 +1709,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "unicorn.studio — No-code WebGL Tool",
@@ -1631,7 +1727,8 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
@@ -1650,8 +1747,8 @@
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator",
@@ -1660,15 +1757,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Chelsi Cocking",
     "channel": "https://www.are.na/chelsi-cocking/creative-coding-library"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator",
@@ -1677,7 +1775,8 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
@@ -1696,8 +1795,8 @@
     "channel": "https://www.are.na/levi-barrenechea/tools-4l6tvdajyoq"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Vite + React",
@@ -1706,15 +1805,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "WebGL flower",
@@ -1723,15 +1823,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "WebGL Fluid Simulation",
@@ -1740,15 +1841,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "www.shadertoy.com",
@@ -1757,15 +1859,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "98.css",
@@ -1774,7 +1877,8 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
@@ -1785,8 +1889,8 @@
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "A useful tool for designing css buttons",
@@ -1795,15 +1899,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Build your Component Library - shadcn/ui",
@@ -1812,15 +1917,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Craftwork: UX/U kits, templates, vector and 3D illustrations",
@@ -1830,15 +1936,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "CSS Buttons",
@@ -1847,15 +1954,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Free UI Resources - Download Best Handpicked Design Resources",
@@ -1865,15 +1973,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Frend - A collection of accessible, modern front-end components.",
@@ -1882,49 +1991,52 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "GitHub - michu2k/Accordion: Accordion module created in pure javascript & CSS. Very useful to create FAQ lists",
+  "title": "michu2k/Accordion: Accordion module created in pure javascript & CSS. Very useful to create FAQ lists",
   "url": "https://github.com/michu2k/Accordion",
   "applications": [
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - torcado194/scritch-player: A simple, customizable HTML media player designed for artists · GitHub",
+  "title": "torcado194/scritch-player: A simple, customizable HTML media player designed for artists · GitHub",
   "url": "https://github.com/torcado194/scritch-player",
   "applications": [
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "bill stellar",
     "channel": "https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "React-Select",
@@ -1933,15 +2045,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Relume Libraries Cloneable",
@@ -1950,15 +2063,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Storybook: Frontend workshop for UI development",
@@ -1967,15 +2081,16 @@
    "Core components & primitives"
   ],
   "confidence": "low",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Samuel Platten",
     "channel": "https://www.are.na/samuel-platten/system-design-z4qqdexy9oi"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Tailwind CSS button collection - Click-to-copy integration",
@@ -1984,15 +2099,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "9.63",
@@ -2001,15 +2117,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "BOEM LE HACHOIR",
     "channel": "https://www.are.na/boem-le-hachoir/web-design-c5jm7slhsfg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "A creative agency based in Aotearoa.",
@@ -2018,15 +2135,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Nikita Cheremin",
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "All Inspiration Components",
@@ -2035,15 +2153,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Browse iOS Apps | Mobbin - The world’s largest mobile app design reference library",
@@ -2052,7 +2171,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
@@ -2063,8 +2183,8 @@
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Capital Theme - Berlin - Ecommerce Website Template",
@@ -2073,15 +2193,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Catalogue — every Arqé template | Arqé",
@@ -2090,15 +2211,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "CodePen",
@@ -2107,15 +2229,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Codrops | Keeping web professionals inspired & up-to-date since 2009",
@@ -2124,15 +2247,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Creative Hub | Codrops",
@@ -2141,7 +2265,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
@@ -2152,8 +2277,8 @@
     "channel": "https://www.are.na/sean-mcsherry/re-source-design"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Deck.Gallery® — Beautifully designed decks, curated",
@@ -2162,7 +2287,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
@@ -2181,8 +2307,8 @@
     "channel": "https://www.are.na/s-hsb/design-resources-references-ur-zxgjqycm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Denys Verholomchuk UI/UX Designer & Mentor",
@@ -2191,24 +2317,26 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Nikita Cheremin",
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "Design Systems Database: Surf among top‑notch Design Systems",
+  "title": "Design Systems Database: Surf among top‑notch Design Systems",
   "url": "https://designsystems.surf/",
   "applications": [
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
@@ -2219,25 +2347,26 @@
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "Design Systems",
+  "title": "Design Systems",
   "url": "https://designsystems.surf/design-systems",
   "applications": [
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Discover iOS apps | Mobbin",
@@ -2246,15 +2375,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Dusk — Elegant & Premium Framer Portfolio Template",
@@ -2263,15 +2393,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Dynamic Motion Templates – Bold, Engaging Design Projects – 6TM® MAGAZINE",
@@ -2280,15 +2411,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Elliot Vredenburg Promotional Website",
@@ -2297,15 +2429,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Tim Jungmann",
     "channel": "https://www.are.na/tim-jungmann/www-draggable"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "ena supply - Framer Templates & Resources",
@@ -2314,7 +2447,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
@@ -2325,8 +2459,8 @@
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Envy Theme - Gothenburg - Ecommerce Website Template",
@@ -2335,15 +2469,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "everestpipkin/tools-list",
@@ -2352,15 +2487,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "EverythingMoves is a creative studio based in London specialising in CGI, motion design, and live action direc",
@@ -2369,15 +2505,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "BOEM LE HACHOIR",
     "channel": "https://www.are.na/boem-le-hachoir/web-design-c5jm7slhsfg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Flow Theme - Queenstown - Ecommerce Website Template",
@@ -2386,15 +2523,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Infinite Canvas app gallery",
@@ -2403,15 +2541,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Interface In Game | Collection of video games UI | Screenshots and videos",
@@ -2420,7 +2559,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
@@ -2431,8 +2571,8 @@
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "INTL Playground",
@@ -2441,15 +2581,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "BOEM LE HACHOIR",
     "channel": "https://www.are.na/boem-le-hachoir/web-design-c5jm7slhsfg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Logo Inspiration — 1,300+ Logos & Animated Logos | Logosystem",
@@ -2458,7 +2599,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sean McSherry🌯",
@@ -2469,8 +2611,8 @@
     "channel": "https://www.are.na/s-hsb/design-resources-references-ur-zxgjqycm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Malavika's Notes",
@@ -2479,15 +2621,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "BOEM LE HACHOIR",
     "channel": "https://www.are.na/boem-le-hachoir/web-design-c5jm7slhsfg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Payflow IO: Free AI Website Template by Mita — Framer Marketplace",
@@ -2496,15 +2639,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Playground Archives | Codrops",
@@ -2513,15 +2657,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Prand - animated world",
@@ -2530,15 +2675,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Nikita Cheremin",
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Recent — Design Inspiration",
@@ -2547,7 +2693,8 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
@@ -2562,8 +2709,8 @@
     "channel": "https://www.are.na/s-hsb/design-resources-references-ur-zxgjqycm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "tidal-motion-ecosystem",
@@ -2572,15 +2719,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "H H",
     "channel": "https://www.are.na/h-h-zm4jg7s0ybg/motion-theory-2u0v4x09fai"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Tutorials | Codrops",
@@ -2589,15 +2737,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "UI Garage - Specific UI Design inspiration & Pattern for your design.",
@@ -2606,15 +2755,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "wrmdrks | Wordmark library",
@@ -2623,15 +2773,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "<named-color> CSS type - CSS | MDN",
@@ -2640,15 +2791,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Antiquated HTML Snippets and Artefacts | Vale.Rocks",
@@ -2657,15 +2809,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "attr() - CSS | MDN",
@@ -2674,15 +2827,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Basscss",
@@ -2691,15 +2845,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "marina lua",
     "channel": "https://www.are.na/marina-lua/digital-toolbox"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Border-image generator - CSS: Cascading Style Sheets | MDN",
@@ -2708,15 +2863,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Carousel · Intro to CSS 3D transforms",
@@ -2725,15 +2881,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Clippy — CSS clip-path maker",
@@ -2742,15 +2899,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "cohost!",
@@ -2759,15 +2917,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Conditional Border Radius In CSS - Ahmad Shadeed",
@@ -2776,15 +2935,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS GUI — Visual styling controls for the web",
@@ -2793,15 +2953,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS Layout Generator",
@@ -2810,15 +2971,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "css list filtering",
@@ -2827,15 +2989,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS Masonry & CSS Grid | CSS-Tricks",
@@ -2844,15 +3007,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "CSS Nuggets | CodyHouse",
@@ -2861,15 +3025,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS Tools: Reset CSS",
@@ -2878,15 +3043,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CVS Receipt",
@@ -2895,15 +3061,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Emoji Cursor - CSS Generator Tool",
@@ -2912,66 +3079,70 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "GitHub - AndreasFaust/awesome-styled-components: A curated list of awesome styled-components resources 💅",
+  "title": "AndreasFaust/awesome-styled-components: A curated list of awesome styled-components resources 💅",
   "url": "https://github.com/AndreasFaust/awesome-styled-components",
   "applications": [
    "Layout & CSS technique"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - joshbuchea/HEAD: A simple guide to HTML <head> elements",
+  "title": "joshbuchea/HEAD: A simple guide to HTML <head> elements",
   "url": "https://github.com/joshbuchea/HEAD",
   "applications": [
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - sdras/cssgridgenerator: 🧮 Generate basic CSS Grid code to make dynamic layouts!",
+  "title": "sdras/cssgridgenerator: 🧮 Generate basic CSS Grid code to make dynamic layouts!",
   "url": "https://github.com/sdras/cssgridgenerator",
   "applications": [
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Grid Garden - A game for learning CSS grid",
@@ -2980,15 +3151,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "hteumeuleu/email-bugs",
@@ -2997,15 +3169,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Tyler Deitz",
     "channel": "https://www.are.na/tyler-deitz/using-github-in-interesting-ways"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "mask-image - CSS: Cascading Style Sheets | MDN",
@@ -3014,15 +3187,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Modern fluid typography editor",
@@ -3031,15 +3205,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "My current HTML boilerplate",
@@ -3048,15 +3223,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "New CSS that can actually be used in 2024",
@@ -3065,15 +3241,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "New CSS that can actually be used in 2024 - Thomasorus",
@@ -3082,15 +3259,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Print-CSS – SELFHTML-Wiki",
@@ -3099,15 +3277,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Printing - Developer guides | MDN",
@@ -3116,15 +3295,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Selecting previous siblings with CSS :has()",
@@ -3133,15 +3313,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "size - CSS: Cascading Style Sheets | MDN",
@@ -3150,15 +3331,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Style a parent element based on its number of children using CSS :has()",
@@ -3167,15 +3349,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "SVG Path Visualizer",
@@ -3184,15 +3367,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "SVGOMG",
@@ -3201,15 +3385,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Cade \"Shibco\" Diehm",
     "channel": "https://www.are.na/cade-shibco-diehm/open-source-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "The Lost CSS Tricks of Cohost.org | CSS-Tricks",
@@ -3218,15 +3403,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "The Mine: No JS, CSS only adventure game",
@@ -3235,15 +3421,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "The Ultimate CSS Shapes Collection",
@@ -3252,15 +3439,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Tufte CSS",
@@ -3269,15 +3457,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "unicode-range | CSS-Tricks",
@@ -3286,15 +3475,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "WTF, HTML and CSS?",
@@ -3303,7 +3493,8 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
@@ -3314,8 +3505,8 @@
     "channel": "https://www.are.na/new-name/interesting-tools-dgn1vah3udc"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "You no longer need JavaScript Ʊ lyra's epic blog",
@@ -3324,15 +3515,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "🤯 HEAD - A simple guide to HTML <head> elements",
@@ -3341,15 +3533,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Recent — Design Inspiration",
@@ -3359,15 +3552,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "60fps - UI/UX animation inspiration for mobile & web apps",
@@ -3377,15 +3571,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
     "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "90’s Cursor Effects",
@@ -3394,15 +3589,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Animate.css | A cross-browser library of CSS animations.",
@@ -3411,15 +3607,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Hover.css - A collection of CSS3 powered hover effects",
@@ -3428,15 +3625,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Jitter · A fast and simple motion design tool on the web",
@@ -3445,15 +3643,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Nikita Cheremin",
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "LottieFiles for WordPress Plugin: Add Animations to WordPress for Free",
@@ -3462,15 +3661,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "low",
-  "agent_readable": "llms.txt",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "llms.txt",
+  "top_pick": false
  },
  {
   "title": "Lottielab | Create and Edit Lottie Animations",
@@ -3479,15 +3679,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Dmytro Horeniuk",
     "channel": "https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Make CSS Animations with AI | AI CSS Animations",
@@ -3496,15 +3697,16 @@
    "Micro-interactions & transitions"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Morphing menu — Playground",
@@ -3514,15 +3716,16 @@
    "Core components & primitives"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
     "channel": "https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Motion",
@@ -3532,15 +3735,16 @@
    "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Nikita Cheremin",
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "UI Movement",
@@ -3550,15 +3754,16 @@
    "Inspiration & reference only"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Book rotation on scroll",
@@ -3567,15 +3772,16 @@
    "Scroll & page motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS-only scrollspy effect using scroll-marker-group and :target-current",
@@ -3585,49 +3791,52 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "GitHub - egstad-construct/detect-scroll",
+  "title": "egstad-construct/detect-scroll",
   "url": "https://github.com/egstad-construct/detect-scroll",
   "applications": [
    "Scroll & page motion"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - flackr/scroll-timeline: A polyfill of ScrollTimeline.",
+  "title": "flackr/scroll-timeline: A polyfill of ScrollTimeline.",
   "url": "https://github.com/flackr/scroll-timeline",
   "applications": [
    "Scroll & page motion"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Scroll-driven Animations",
@@ -3636,15 +3845,16 @@
    "Scroll & page motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "View Progress Timeline: Ranges and Animation Progress Visualizer",
@@ -3653,15 +3863,16 @@
    "Scroll & page motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "csswarp.eleqtriq.com",
@@ -3671,15 +3882,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "kim kleinert",
     "channel": "https://www.are.na/kim-kleinert/resources-tools-s_fl46656mg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Effects Showroom - TerminalTextEffects Docs",
@@ -3688,51 +3900,35 @@
    "Text effects & type motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "My favourite piece of motion design this week, and its not even animation. &#39;Pretext&#39; by Cheng Lou hand",
+  "title": "My favourite piece of motion design this week, and its not even animation. 'Pretext' by Cheng Lou hand",
   "url": "https://www.linkedin.com/posts/christian-wheeler-a7b77719a_my-favourite-piece-of-motion-design-this-ugcPost-7447085067245412352-Y543",
   "applications": [
    "Text effects & type motion",
    "Inspiration & reference only"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Abby Bingham",
     "channel": "https://www.are.na/abby-bingham-rjxgktgn48y/motion-2nsdiwsvrfw"
    }
   ],
-  "top_pick": false,
-  "paid": false
- },
- {
-  "title": "Reaction Diffusion Typography generator",
-  "url": "https://claude.ai/code/artifact/4a4fc3e2-7283-43da-8fdf-934e7e310d8e",
-  "applications": [
-   "Text effects & type motion",
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "high",
   "agent_readable": "not found",
-  "curators": [
-   {
-    "name": "Rachel Steele",
-    "channel": "https://www.are.na/rachel-steele/tools-for-creating"
-   }
-  ],
-  "top_pick": false,
-  "paid": false
+  "top_pick": false
  },
  {
   "title": "rutherfordcraze/variable-animation",
@@ -3741,15 +3937,16 @@
    "Text effects & type motion"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Studio Blou - Motion Type",
@@ -3758,15 +3955,16 @@
    "Text effects & type motion"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Type Dither",
@@ -3776,15 +3974,16 @@
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "low",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "claire r",
     "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Typeface Animator",
@@ -3793,15 +3992,16 @@
    "Text effects & type motion"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Edeline Go",
     "channel": "https://www.are.na/edeline-go/rs001-design-resources"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "WordArt",
@@ -3811,15 +4011,16 @@
    "Layout & CSS technique"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Color Scales | Components AI",
@@ -3828,10 +4029,11 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "Colors – Radix UI",
@@ -3840,15 +4042,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS Gradient Generator",
@@ -3857,15 +4060,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Rachel Steele",
     "channel": "https://www.are.na/rachel-steele/tools-for-creating"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "CSS Shadow Palette Generator",
@@ -3874,15 +4078,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "d3/d3-scale-chromatic",
@@ -3891,15 +4096,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Esri Color Ramps | ArcGIS Maps SDK for JavaScript",
@@ -3908,15 +4114,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Samuel Platten",
     "channel": "https://www.are.na/samuel-platten/system-design-z4qqdexy9oi"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "FOUND COLOR schemes for web and UI",
@@ -3925,83 +4132,88 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Shanik Tanna",
     "channel": "https://www.are.na/shanik-tanna/resources-ivu1-39tfyg"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
-  "title": "GitHub - antiflasher/apcach: JS color calculator for composing colors with consistent APCA contrast ratio.",
+  "title": "antiflasher/apcach: JS color calculator for composing colors with consistent APCA contrast ratio.",
   "url": "https://github.com/antiflasher/apcach",
   "applications": [
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - evilmartians/harmony: Harmony color palette",
+  "title": "evilmartians/harmony: Harmony color palette",
   "url": "https://github.com/evilmartians/harmony",
   "applications": [
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - mattdesl/dictionary-of-colour-combinations: palettes from A Dictionary of Colour Combinations",
+  "title": "mattdesl/dictionary-of-colour-combinations: palettes from A Dictionary of Colour Combinations",
   "url": "https://github.com/mattdesl/dictionary-of-colour-combinations",
   "applications": [
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
-  "title": "GitHub - texel-org/color: modern color library for image processing and creative coding (oklab, xyz, p3, rec20",
+  "title": "texel-org/color: modern color library for image processing and creative coding (oklab, xyz, p3, rec20",
   "url": "https://github.com/texel-org/color",
   "applications": [
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Instrument — Mapping Dominant Image Colors in Javascript",
@@ -4010,15 +4222,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "larsenwork/postcss-easing-gradients",
@@ -4027,15 +4240,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "Neumorphism CSS shadow generator",
@@ -4044,15 +4258,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "not found",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Everest Pipkin",
     "channel": "https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "not found",
+  "top_pick": false
  },
  {
   "title": "ZoeFiri/base16-summercamp",
@@ -4061,15 +4276,16 @@
    "Theming, color & tokens"
   ],
   "confidence": "high",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Sam Dal Monte",
     "channel": "https://www.are.na/sam-dal-monte/code-4wc6tn_-iko"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  },
  {
   "title": "~ soft aesthetic ~",
@@ -4078,14 +4294,15 @@
    "Theming, color & tokens"
   ],
   "confidence": "low",
-  "agent_readable": "github",
+  "paid": false,
+  "note": "",
   "curators": [
    {
     "name": "Tyler Deitz",
     "channel": "https://www.are.na/tyler-deitz/using-github-in-interesting-ways"
    }
   ],
-  "top_pick": false,
-  "paid": false
+  "agent_readable": "github",
+  "top_pick": false
  }
 ]

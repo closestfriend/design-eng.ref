@@ -1,0 +1,8 @@
+{
+  "name": "ui-refs-for-coding-agents",
+  "private": true,
+  "type": "module",
+  "description": "UI references for coding agents, sorted by the job they do in a build",
+  "scripts": { "build": "node scripts/build.mjs" },
+  "license": "CC0-1.0"
+}
