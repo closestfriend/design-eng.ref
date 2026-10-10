@@ -4,33 +4,12 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { parseCsv } from './csv.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const VALID_AS_OF = '2026-10-09'; // bump when links are re-checked
 
 // ---------------------------------------------------------------- CSV in
-function parseCsv(text) {
-  const rows = [];
-  let row = [], field = '', quoted = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (quoted) {
-      if (c === '"' && text[i + 1] === '"') { field += '"'; i++; }
-      else if (c === '"') quoted = false;
-      else field += c;
-    } else if (c === '"') quoted = true;
-    else if (c === ',') { row.push(field); field = ''; }
-    else if (c === '\n' || c === '\r') {
-      if (c === '\r' && text[i + 1] === '\n') i++;
-      row.push(field); field = '';
-      if (row.length > 1 || row[0] !== '') rows.push(row);
-      row = [];
-    } else field += c;
-  }
-  if (field !== '' || row.length) { row.push(field); rows.push(row); }
-  return rows;
-}
-
 const [header, ...body] = parseCsv(readFileSync(join(ROOT, 'items.csv'), 'utf8'));
 const items = body.map((r) => {
   const o = Object.fromEntries(header.map((h, i) => [h, r[i] ?? '']));

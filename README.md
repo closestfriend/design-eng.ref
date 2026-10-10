@@ -15,11 +15,11 @@ It is sorted by **the job a thing does in a build**, not by what kind of resourc
 > An AI model helped organize and tag this list, and the tags are only partly hand-checked, so expect some to be off. See [how this was made](#how-this-was-made).
 
 <!-- LIST:START -->
-**203 links** · valid as of 2026-10-09 · 34 start-here picks (★)
+**201 links** · valid as of 2026-10-09 · 35 start-here picks (★)
 
 ## Start here
 
-Where to start. 19 of these 34 publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.
+Where to start. 21 of these 35 publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.
 
 | Pick | Job | Agent-readable | Note |
 |---|---|---|---|
@@ -35,12 +35,12 @@ Where to start. 19 of these 34 publish `llms.txt` or a shadcn registry, so an ag
 | [Framer Motion Components \| Pixel Perfect UI](https://www.pixel-perfect.space/blocks/motion) | Micro-interactions & transitions | shadcn registry | Lightweight React UI library and Framer Motion blocks. |
 | [Motion (formerly Framer Motion)](https://motion.dev/) | Micro-interactions & transitions | `llms.txt` | Motion (formerly Framer Motion): JavaScript and React animation library. |
 | [Motionwind — Motion animations as Tailwind classes](https://www.motionwind.xyz/) | Micro-interactions & transitions | `llms.txt` | Motion animations as Tailwind-style utility classes; docs written for LLMs. |
-| [Originkit — Free Animated component library for modern websites](https://www.originkit.dev/) | Micro-interactions & transitions | - | Free animated component library. |
+| [Originkit — Free Animated component library for modern websites](https://www.originkit.dev/) | Micro-interactions & transitions | - | Free animated component library: copy the code, use it in Framer, or connect through MCP. |
 | [React UI Components \| ObsidianUI](https://www.obsidianui.dev/components) | Micro-interactions & transitions | `llms.txt`, shadcn registry | React components with full source downloads. |
 | [The Vocabulary of Motion](https://motion-vocabulary.vercel.app/) | Micro-interactions & transitions | - | A vocabulary of UI motion terms. |
-| [Transitions.dev: UI transitions for AI agents](https://transitions.dev/) | Micro-interactions & transitions | - | UI transitions aimed at AI agents. |
+| [Transitions.dev: UI transitions for AI agents](https://transitions.dev/) | Micro-interactions & transitions | - | UI transitions to copy and paste, or use with your coding agent via a skill. |
 | [GSAP Motion Components for React & Vue \| Annnimate](https://annnimate.com/) | Scroll & page motion | `llms.txt`, paid | GSAP motion components for React and Vue. Paid library. |
-| [Lenis – Get smooth or die trying](https://lenis.studiofreight.com/) | Scroll & page motion | - | Lenis: smooth scroll. |
+| [Lenis: smooth scroll](https://lenis.dev/) | Scroll & page motion | `llms.txt` | Smooth-scroll library, actively maintained (16k stars on GitHub); has llms.txt. |
 | [The GSAP Field™ — A motion playground by BYQ](https://the-gsap-field.webflow.io/) | Scroll & page motion | - | A GSAP motion playground. |
 | [slot-text — tiny text roll animation](https://textmotion.dev/) | Text effects & type motion | - | slot-text: tiny text roll animation. |
 | [Generative Loaders — text, inline, and image loaders for React](https://generativeloaders.com/) | Loaders & AI/agent status | - | Text, inline and image loaders for React. |
@@ -53,6 +53,7 @@ Where to start. 19 of these 34 publish `llms.txt` or a shadcn registry, so an ag
 | [Three.js](https://threejs.org/) | Backgrounds, shaders & generative visuals | `llms.txt` | The standard 3D library for WebGL and WebGPU; publishes llms.txt plus full docs for LLMs, including its TSL shader language. |
 | [Unicorn Studio](https://www.unicorn.studio/) | Backgrounds, shaders & generative visuals | `llms.txt` | Visual canvas for production-ready shader, 3D and interactive web graphics; has llms.txt. |
 | [tweakcn: themes for shadcn/ui](https://tweakcn.com/) | Theming, color & tokens | shadcn registry | Visual theme editor and generator for shadcn/ui. |
+| [Efecto: AI design tool with an MCP server](https://efecto.app/) | Agent skills & motion vocabulary | `llms.txt` | Design tool where AI agents are first-class: artboards, layers and auto-layout, with an MCP server of 68 tools; has llms.txt. |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | Agent skills & motion vocabulary | GitHub | Skills for design engineers, for coding agents. |
 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | Agent skills & motion vocabulary | GitHub | Skills for design engineers, for coding agents. |
 | [DesEngs: Resources for Design Engineers](https://desengs.com/) | Inspiration & reference only | - | Resources for design engineers. |
@@ -73,7 +74,7 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [98.css](https://jdan.github.io/98.css/)
 - [A useful tool for designing css buttons](https://www.bestcssbuttongenerator.com/)
 - [Build your Component Library - shadcn/ui](https://ui.shadcn.com/) — `llms.txt`
-- [Craftwork: UX/U kits, templates, vector and 3D illustrations](https://craftwork.design/) — `llms.txt` (also: Inspiration & reference only)
+- [Craftwork: design assets and templates for designers and AI agents](https://craftwork.design/) — `llms.txt` (also: Agent skills & motion vocabulary, Inspiration & reference only)
 - [CSS Buttons](https://www.w3schools.com/css/css3_buttons.asp)
 - [Free UI Resources - Download Best Handpicked Design Resources](https://freeuiresources.com/) (also: Inspiration & reference only)
 - [Frend - A collection of accessible, modern front-end components.](https://frend.co/)
@@ -87,7 +88,7 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 </details>
 
 <details>
-<summary><b>Micro-interactions &amp; transitions</b> (21) — Hover/press/state motion, page transitions, motion libraries.</summary>
+<summary><b>Micro-interactions &amp; transitions</b> (20) — Hover/press/state motion, page transitions, motion libraries.</summary>
 
 - ★ [Amicro — Premium React Micro-transitions & Interaction Components](https://amicro.vercel.app/) — shadcn registry
 - ★ [Animation Vocabulary — A Glossary of Animation Patterns](https://animations.samkalok.com/) — `llms.txt` (also: Agent skills & motion vocabulary)
@@ -109,7 +110,6 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [Make CSS Animations with AI | AI CSS Animations](https://www.aicssanimations.com/)
 - [Morphing menu — Playground](https://dannyjpwilliams.com/playground/morphing-menu/) (also: Core components & primitives)
 - [Motion](https://motion.zajno.com/) (also: Agent skills & motion vocabulary)
-- [UI Movement](https://uimovement.com/) (also: Inspiration & reference only)
 
 </details>
 
@@ -117,7 +117,7 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 <summary><b>Scroll &amp; page motion</b> (9) — Smooth scroll, scroll-driven animation, GSAP choreography.</summary>
 
 - ★ [GSAP Motion Components for React & Vue | Annnimate](https://annnimate.com/) — `llms.txt` · paid (also: Micro-interactions & transitions)
-- ★ [Lenis – Get smooth or die trying](https://lenis.studiofreight.com/)
+- ★ [Lenis: smooth scroll](https://lenis.dev/) — `llms.txt`
 - ★ [The GSAP Field™ — A motion playground by BYQ](https://the-gsap-field.webflow.io/)
 - [Book rotation on scroll](https://codepen.io/riklomas/pen/dyOBXKy)
 - [CSS-only scrollspy effect using scroll-marker-group and :target-current](https://www.sarasoueidan.com/blog/css-scrollspy/) (also: Layout & CSS technique)
@@ -151,7 +151,7 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 </details>
 
 <details>
-<summary><b>Backgrounds, shaders &amp; generative visuals</b> (53) — WebGL, canvas, GLSL, dither, 3D, procedural visuals.</summary>
+<summary><b>Backgrounds, shaders &amp; generative visuals</b> (50) — WebGL, canvas, GLSL, dither, 3D, procedural visuals.</summary>
 
 - ★ [Canvas UI: Creative Canvas and WebGL Component Library](https://canvasui.dev/) — `llms.txt` · shadcn registry (also: Core components & primitives)
 - ★ [Paper Shaders – Ultra-fast zero-dependency shaders](https://shaders.paper.design/) — `llms.txt`
@@ -171,8 +171,6 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [dither in the browser with the power of CSS | maya.land](https://maya.land/monologues/2021/02/15/css-dither.html) (also: Layout & CSS technique)
 - [DotForge — Real-Time Dither Animation Builder](https://dotforge.vercel.app/)
 - [Dynamic Phyllotaxis 01](https://marlonbarrios.github.io/animated_phylotaxis/)
-- [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/) — `llms.txt`
-- [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/?v=1&in=media&media=%252Fassets%252Fbeach-sunset.mp4&ms=1&mpx=0&mpy=-0.018518518518518545&ss=0&ac=10&gbs=0.2&gdp=0.49&gbo=0&gsp=0.6&pp=pa%3A1%3Anes%2C000000-b53120-6b6b6b-fcfcfc%2C0.7%7Csl%3A1%3A0.3%2C300%7Ccu%3A1%3A0.5%7Cvi%3A1%3A0.4%2C0.7%7Cbc%3A1%3A0.1%2C1.2%2C0%2C1) — `llms.txt`
 - [Eyecandy - Visual Technique Library](https://eyecannndy.com/) (also: Inspiration & reference only)
 - [free SVG generators, web design tools & modern HTML templates](https://fffuel.co/) (also: Theming, color & tokens)
 - [Grainy Gradients | CSS-Tricks](https://css-tricks.com/grainy-gradients/) — `llms.txt` (also: Layout & CSS technique)
@@ -202,7 +200,6 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [tsulej/GenerateMe](https://github.com/tsulej/GenerateMe) — GitHub
 - [urbit/sigil-js: ~4.2 billion default profile pics](https://github.com/urbit/sigil-js) — GitHub
 - [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://halftone.xoihazard.com/)
-- [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://xoihazard.com/tools/halftone/)
 - [WebGL flower](https://www.ibiblio.org/e-notes/Splines/garden/lathe/tulip_tex.htm)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [www.shadertoy.com](https://www.shadertoy.com/)
@@ -278,8 +275,9 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 </details>
 
 <details>
-<summary><b>Agent skills &amp; motion vocabulary</b> (3) — Skill files for coding agents; glossaries for briefing an AI about motion.</summary>
+<summary><b>Agent skills &amp; motion vocabulary</b> (4) — Skill files for coding agents; glossaries for briefing an AI about motion.</summary>
 
+- ★ [Efecto: AI design tool with an MCP server](https://efecto.app/) — `llms.txt`
 - ★ [emilkowalski/skills](https://github.com/emilkowalski/skills) — GitHub
 - ★ [ibelick/ui-skills](https://github.com/ibelick/ui-skills) — GitHub
 - [staltz/microskills: Modular prompts I use every day](https://github.com/staltz/microskills) — GitHub
@@ -287,12 +285,12 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 </details>
 
 <details>
-<summary><b>Inspiration &amp; reference only</b> (33) — Galleries and showcases. Nothing to install; useful for taste.</summary>
+<summary><b>Inspiration &amp; reference only</b> (34) — Galleries and showcases. Nothing to install; useful for taste.</summary>
 
 - ★ [DesEngs: Resources for Design Engineers](https://desengs.com/)
 - ★ [Interface Craft](https://www.interfacecraft.dev/)
 - [9.63](https://ninepointsixthree.co/)
-- [A creative agency based in Aotearoa.](https://motionsickness.co.nz/)
+- [A creative agency based in Aotearoa.](https://motionsickness.company/)
 - [All Inspiration Components](https://www.tilebit.io/all-inspirations) — `llms.txt`
 - [Browse iOS Apps | Mobbin - The world’s largest mobile app design reference library](https://mobbin.com/browse/ios/apps) — `llms.txt`
 - [Capital Theme - Berlin - Ecommerce Website Template](https://themes.shopify.com/themes/capital/styles/berlin?surface_detail=capital&surface_inter_position=1&surface_intra_position=1&surface_type=search)
@@ -314,6 +312,7 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [Interface In Game | Collection of video games UI | Screenshots and videos](https://interfaceingame.com/)
 - [INTL Playground](https://playground.intl.international/01/)
 - [Logo Inspiration — 1,300+ Logos & Animated Logos | Logosystem](https://logosystem.co/) — `llms.txt`
+- [Page Flows: recorded UI flows and screens from top apps](https://pageflows.com/)
 - [Payflow IO: Free AI Website Template by Mita — Framer Marketplace](https://www.framer.com/community/marketplace/templates/payflow-io/) — `llms.txt`
 - [Playground Archives | Codrops](http://tympanus.net/codrops/category/playground/)
 - [Prand - animated world](https://prand-n.ava-case.com/)
@@ -335,12 +334,12 @@ Most of these links were found through other people's public [Are.na](https://ww
 - sinco institute Ⓢ: [expensive-ui-0xxh6b-nbjm](https://www.are.na/sinco-institute/expensive-ui-0xxh6b-nbjm) (17)
 - Everest Pipkin: [the-browser-is-already-a-game-engine-2026](https://www.are.na/everest-pipkin/the-browser-is-already-a-game-engine-2026) (15)
 - Edeline Go: [rs001-design-resources](https://www.are.na/edeline-go/rs001-design-resources) (14)
-- Kirill Kuznetsov: [resources-veogmafl1lg](https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg) (14)
+- Kirill Kuznetsov: [resources-veogmafl1lg](https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg) (13)
 - Dmytro Horeniuk: [web-tools-odb4oktvfdk](https://www.are.na/dmytro-horeniuk/web-tools-odb4oktvfdk) (10)
-- bill stellar: [tools-resources-qrd5bmyvd_0](https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0) (8)
-- claire r: [tools-toys-vg9uiwetfsw](https://www.are.na/claire-r/tools-toys-vg9uiwetfsw) (7)
-- Rachel Steele: [tools-for-creating](https://www.are.na/rachel-steele/tools-for-creating) (7)
+- bill stellar: [tools-resources-qrd5bmyvd_0](https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0) (7)
+- claire r: [tools-toys-vg9uiwetfsw](https://www.are.na/claire-r/tools-toys-vg9uiwetfsw) (6)
 - Nikita Cheremin: [beautiful-web-ukkly1taacg](https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg) (6)
+- Rachel Steele: [tools-for-creating](https://www.are.na/rachel-steele/tools-for-creating) (6)
 - Samuel Platten: [system-design-z4qqdexy9oi](https://www.are.na/samuel-platten/system-design-z4qqdexy9oi) (6)
 - Chelsi Cocking: [creative-coding-library](https://www.are.na/chelsi-cocking/creative-coding-library) (4)
 - New Name: [interesting-tools-dgn1vah3udc](https://www.are.na/new-name/interesting-tools-dgn1vah3udc) (4)
@@ -353,7 +352,6 @@ Most of these links were found through other people's public [Are.na](https://ww
 - Dominik VD: [tools-_w-nwn_y3qs](https://www.are.na/dominik-vd/tools-_w-nwn_y3qs) (1)
 - Erwin Sanvictores: [motion_design_ideas](https://www.are.na/erwin-sanvictores/motion_design_ideas) (1)
 - H H: [motion-theory-2u0v4x09fai](https://www.are.na/h-h-zm4jg7s0ybg/motion-theory-2u0v4x09fai) (1)
-- Levi Barrenechea: [tools-4l6tvdajyoq](https://www.are.na/levi-barrenechea/tools-4l6tvdajyoq) (1)
 - marina lua: [digital-toolbox](https://www.are.na/marina-lua/digital-toolbox) (1)
 - Tim Jungmann: [www-draggable](https://www.are.na/tim-jungmann/www-draggable) (1)
 - Tyler Deitz: [using-github-in-interesting-ways](https://www.are.na/tyler-deitz/using-github-in-interesting-ways) (1)

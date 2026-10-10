@@ -1,6 +1,6 @@
 # UI references for coding agents
 
-> Index of 203 component libraries, motion/GSAP resources, shaders, theming tools and agent skills for building interfaces, grouped by the job they do in a build. Valid as of 2026-10-09. Tags are partly automated; see README.md. Items marked "unverified" are guesses.
+> Index of 201 component libraries, motion/GSAP resources, shaders, theming tools and agent skills for building interfaces, grouped by the job they do in a build. Valid as of 2026-10-09. Tags are partly automated; see README.md. Items marked "unverified" are guesses.
 
 ## Start here
 
@@ -16,12 +16,12 @@
 - [Framer Motion Components | Pixel Perfect UI](https://www.pixel-perfect.space/blocks/motion): Lightweight React UI library and Framer Motion blocks.
 - [Motion (formerly Framer Motion)](https://motion.dev/): Motion (formerly Framer Motion): JavaScript and React animation library.
 - [Motionwind — Motion animations as Tailwind classes](https://www.motionwind.xyz/): Motion animations as Tailwind-style utility classes; docs written for LLMs.
-- [Originkit — Free Animated component library for modern websites](https://www.originkit.dev/): Free animated component library.
+- [Originkit — Free Animated component library for modern websites](https://www.originkit.dev/): Free animated component library: copy the code, use it in Framer, or connect through MCP.
 - [React UI Components | ObsidianUI](https://www.obsidianui.dev/components): React components with full source downloads.
 - [The Vocabulary of Motion](https://motion-vocabulary.vercel.app/): A vocabulary of UI motion terms.
-- [Transitions.dev: UI transitions for AI agents](https://transitions.dev/): UI transitions aimed at AI agents.
+- [Transitions.dev: UI transitions for AI agents](https://transitions.dev/): UI transitions to copy and paste, or use with your coding agent via a skill.
 - [GSAP Motion Components for React & Vue | Annnimate](https://annnimate.com/): GSAP motion components for React and Vue. Paid library.
-- [Lenis – Get smooth or die trying](https://lenis.studiofreight.com/): Lenis: smooth scroll.
+- [Lenis: smooth scroll](https://lenis.dev/): Smooth-scroll library, actively maintained (16k stars on GitHub); has llms.txt.
 - [The GSAP Field™ — A motion playground by BYQ](https://the-gsap-field.webflow.io/): A GSAP motion playground.
 - [slot-text — tiny text roll animation](https://textmotion.dev/): slot-text: tiny text roll animation.
 - [Generative Loaders — text, inline, and image loaders for React](https://generativeloaders.com/): Text, inline and image loaders for React.
@@ -34,6 +34,7 @@
 - [Three.js](https://threejs.org/): The standard 3D library for WebGL and WebGPU; publishes llms.txt plus full docs for LLMs, including its TSL shader language.
 - [Unicorn Studio](https://www.unicorn.studio/): Visual canvas for production-ready shader, 3D and interactive web graphics; has llms.txt.
 - [tweakcn: themes for shadcn/ui](https://tweakcn.com/): Visual theme editor and generator for shadcn/ui.
+- [Efecto: AI design tool with an MCP server](https://efecto.app/): Design tool where AI agents are first-class: artboards, layers and auto-layout, with an MCP server of 68 tools; has llms.txt.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills): Skills for design engineers, for coding agents.
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills): Skills for design engineers, for coding agents.
 - [DesEngs: Resources for Design Engineers](https://desengs.com/): Resources for design engineers.
@@ -51,7 +52,7 @@ Copy-paste component libraries, UI kits, shadcn-style registries.
 - [98.css](https://jdan.github.io/98.css/)
 - [A useful tool for designing css buttons](https://www.bestcssbuttongenerator.com/)
 - [Build your Component Library - shadcn/ui](https://ui.shadcn.com/): llms.txt
-- [Craftwork: UX/U kits, templates, vector and 3D illustrations](https://craftwork.design/): llms.txt
+- [Craftwork: design assets and templates for designers and AI agents](https://craftwork.design/): llms.txt
 - [CSS Buttons](https://www.w3schools.com/css/css3_buttons.asp)
 - [Free UI Resources - Download Best Handpicked Design Resources](https://freeuiresources.com/)
 - [Frend - A collection of accessible, modern front-end components.](https://frend.co/)
@@ -86,14 +87,13 @@ Hover/press/state motion, page transitions, motion libraries.
 - [Make CSS Animations with AI | AI CSS Animations](https://www.aicssanimations.com/)
 - [Morphing menu — Playground](https://dannyjpwilliams.com/playground/morphing-menu/)
 - [Motion](https://motion.zajno.com/)
-- [UI Movement](https://uimovement.com/)
 
 ## Scroll & page motion
 
 Smooth scroll, scroll-driven animation, GSAP choreography.
 
 - [GSAP Motion Components for React & Vue | Annnimate](https://annnimate.com/): llms.txt, paid
-- [Lenis – Get smooth or die trying](https://lenis.studiofreight.com/)
+- [Lenis: smooth scroll](https://lenis.dev/): llms.txt
 - [The GSAP Field™ — A motion playground by BYQ](https://the-gsap-field.webflow.io/)
 - [Book rotation on scroll](https://codepen.io/riklomas/pen/dyOBXKy)
 - [CSS-only scrollspy effect using scroll-marker-group and :target-current](https://www.sarasoueidan.com/blog/css-scrollspy/)
@@ -139,8 +139,6 @@ WebGL, canvas, GLSL, dither, 3D, procedural visuals.
 - [dither in the browser with the power of CSS | maya.land](https://maya.land/monologues/2021/02/15/css-dither.html)
 - [DotForge — Real-Time Dither Animation Builder](https://dotforge.vercel.app/)
 - [Dynamic Phyllotaxis 01](https://marlonbarrios.github.io/animated_phylotaxis/)
-- [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/): llms.txt
-- [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/?v=1&in=media&media=%252Fassets%252Fbeach-sunset.mp4&ms=1&mpx=0&mpy=-0.018518518518518545&ss=0&ac=10&gbs=0.2&gdp=0.49&gbo=0&gsp=0.6&pp=pa%3A1%3Anes%2C000000-b53120-6b6b6b-fcfcfc%2C0.7%7Csl%3A1%3A0.3%2C300%7Ccu%3A1%3A0.5%7Cvi%3A1%3A0.4%2C0.7%7Cbc%3A1%3A0.1%2C1.2%2C0%2C1): llms.txt
 - [Shader Lab (basement.studio)](https://eng.basement.studio/tools/shader-lab): llms.txt
 - [Eyecandy - Visual Technique Library](https://eyecannndy.com/)
 - [free SVG generators, web design tools & modern HTML templates](https://fffuel.co/)
@@ -175,7 +173,6 @@ WebGL, canvas, GLSL, dither, 3D, procedural visuals.
 - [tsulej/GenerateMe](https://github.com/tsulej/GenerateMe): github
 - [Unicorn Studio](https://www.unicorn.studio/): llms.txt
 - [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://halftone.xoihazard.com/)
-- [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://xoihazard.com/tools/halftone/)
 - [WebGL flower](https://www.ibiblio.org/e-notes/Splines/garden/lathe/tulip_tex.htm)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [www.shadertoy.com](https://www.shadertoy.com/)
@@ -253,6 +250,7 @@ Skill files for coding agents; glossaries for briefing an AI about motion.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills): github
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills): github
 - [staltz/microskills: Modular prompts I use every day](https://github.com/staltz/microskills): github
+- [Efecto: AI design tool with an MCP server](https://efecto.app/): llms.txt
 
 ## Inspiration & reference only
 
@@ -261,7 +259,7 @@ Galleries and showcases. Nothing to install; useful for taste.
 - [DesEngs: Resources for Design Engineers](https://desengs.com/)
 - [Interface Craft](https://www.interfacecraft.dev/)
 - [9.63](https://ninepointsixthree.co/)
-- [A creative agency based in Aotearoa.](https://motionsickness.co.nz/)
+- [A creative agency based in Aotearoa.](https://motionsickness.company/)
 - [All Inspiration Components](https://www.tilebit.io/all-inspirations): llms.txt
 - [Browse iOS Apps | Mobbin - The world’s largest mobile app design reference library](https://mobbin.com/browse/ios/apps): llms.txt
 - [Capital Theme - Berlin - Ecommerce Website Template](https://themes.shopify.com/themes/capital/styles/berlin?surface_detail=capital&surface_inter_position=1&surface_intra_position=1&surface_type=search)
@@ -291,3 +289,4 @@ Galleries and showcases. Nothing to install; useful for taste.
 - [Tutorials | Codrops](https://tympanus.net/codrops/category/tutorials/)
 - [UI Garage - Specific UI Design inspiration & Pattern for your design.](https://uigarage.net/)
 - [wrmdrks | Wordmark library](https://wrdmrks.com/)
+- [Page Flows: recorded UI flows and screens from top apps](https://pageflows.com/)

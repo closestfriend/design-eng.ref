@@ -407,7 +407,7 @@
   ],
   "confidence": "high",
   "paid": false,
-  "note": "Free animated component library.",
+  "note": "Free animated component library: copy the code, use it in Framer, or connect through MCP.",
   "curators": [
    {
     "name": "sinco institute Ⓢ",
@@ -464,7 +464,7 @@
   ],
   "confidence": "high",
   "paid": false,
-  "note": "UI transitions aimed at AI agents.",
+  "note": "UI transitions to copy and paste, or use with your coding agent via a skill.",
   "curators": [
    {
     "name": "Edeline Go",
@@ -502,14 +502,14 @@
   "top_pick": true
  },
  {
-  "title": "Lenis – Get smooth or die trying",
-  "url": "https://lenis.studiofreight.com/",
+  "title": "Lenis: smooth scroll",
+  "url": "https://lenis.dev/",
   "applications": [
    "Scroll & page motion"
   ],
   "confidence": "high",
   "paid": false,
-  "note": "Lenis: smooth scroll.",
+  "note": "Smooth-scroll library, actively maintained (16k stars on GitHub); has llms.txt.",
   "curators": [
    {
     "name": "Sam Dal Monte",
@@ -520,7 +520,7 @@
     "channel": "https://www.are.na/nikita-cheremin/beautiful-web-ukkly1taacg"
    }
   ],
-  "agent_readable": "not found",
+  "agent_readable": "llms.txt",
   "top_pick": true
  },
  {
@@ -769,35 +769,17 @@
   "top_pick": false
  },
  {
-  "title": "Efecto - Free ASCII Art & Dithering Effects Tool",
+  "title": "Efecto: AI design tool with an MCP server",
   "url": "https://efecto.app/",
   "applications": [
-   "Backgrounds, shaders & generative visuals"
+   "Agent skills & motion vocabulary"
   ],
   "confidence": "high",
   "paid": false,
-  "note": "",
+  "note": "Design tool where AI agents are first-class: artboards, layers and auto-layout, with an MCP server of 68 tools; has llms.txt.",
   "curators": [],
   "agent_readable": "llms.txt",
-  "top_pick": false
- },
- {
-  "title": "Efecto - Free ASCII Art & Dithering Effects Tool",
-  "url": "https://efecto.app/?v=1&in=media&media=%252Fassets%252Fbeach-sunset.mp4&ms=1&mpx=0&mpy=-0.018518518518518545&ss=0&ac=10&gbs=0.2&gdp=0.49&gbo=0&gsp=0.6&pp=pa%3A1%3Anes%2C000000-b53120-6b6b6b-fcfcfc%2C0.7%7Csl%3A1%3A0.3%2C300%7Ccu%3A1%3A0.5%7Cvi%3A1%3A0.4%2C0.7%7Cbc%3A1%3A0.1%2C1.2%2C0%2C1",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "high",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "Kirill Kuznetsov",
-    "channel": "https://www.are.na/kirill-kuznetsov/resources-veogmafl1lg"
-   }
-  ],
-  "agent_readable": "llms.txt",
-  "top_pick": false
+  "top_pick": true
  },
  {
   "title": "Shader Lab (basement.studio)",
@@ -1425,36 +1407,6 @@
   "top_pick": false
  },
  {
-  "title": "Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator",
-  "url": "https://xoihazard.com/tools/halftone/",
-  "applications": [
-   "Backgrounds, shaders & generative visuals"
-  ],
-  "confidence": "high",
-  "paid": false,
-  "note": "",
-  "curators": [
-   {
-    "name": "bill stellar",
-    "channel": "https://www.are.na/bill-stellar/tools-resources-qrd5bmyvd_0"
-   },
-   {
-    "name": "claire r",
-    "channel": "https://www.are.na/claire-r/tools-toys-vg9uiwetfsw"
-   },
-   {
-    "name": "Rachel Steele",
-    "channel": "https://www.are.na/rachel-steele/tools-for-creating"
-   },
-   {
-    "name": "Levi Barrenechea",
-    "channel": "https://www.are.na/levi-barrenechea/tools-4l6tvdajyoq"
-   }
-  ],
-  "agent_readable": "not found",
-  "top_pick": false
- },
- {
   "title": "WebGL flower",
   "url": "https://www.ibiblio.org/e-notes/Splines/garden/lathe/tulip_tex.htm",
   "applications": [
@@ -1567,10 +1519,11 @@
   "top_pick": false
  },
  {
-  "title": "Craftwork: UX/U kits, templates, vector and 3D illustrations",
+  "title": "Craftwork: design assets and templates for designers and AI agents",
   "url": "https://craftwork.design/",
   "applications": [
    "Core components & primitives",
+   "Agent skills & motion vocabulary",
    "Inspiration & reference only"
   ],
   "confidence": "high",
@@ -1768,7 +1721,7 @@
  },
  {
   "title": "A creative agency based in Aotearoa.",
-  "url": "https://motionsickness.co.nz/",
+  "url": "https://motionsickness.company/",
   "applications": [
    "Inspiration & reference only"
   ],
@@ -3259,10 +3212,9 @@
   "top_pick": false
  },
  {
-  "title": "UI Movement",
-  "url": "https://uimovement.com/",
+  "title": "Page Flows: recorded UI flows and screens from top apps",
+  "url": "https://pageflows.com/",
   "applications": [
-   "Micro-interactions & transitions",
    "Inspiration & reference only"
   ],
   "confidence": "high",

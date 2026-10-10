@@ -20,6 +20,14 @@ The whole list lives in [`items.csv`](items.csv). Add or fix a row there; a GitH
 
 Core components & primitives · Micro-interactions & transitions · Scroll & page motion · Text effects & type motion · Loaders & AI/agent status · Backgrounds, shaders & generative visuals · Theming, color & tokens · Layout & CSS technique · Agent skills & motion vocabulary · Inspiration & reference only
 
+## Check the links
+
+```sh
+node scripts/check-links.mjs
+```
+
+Re-checks every link against its live page and flags dead links, moved domains, pages whose identity has drifted from the saved title, and pages that now describe themselves as agent tooling. Run it before bumping `VALID_AS_OF` in `scripts/build.mjs`.
+
 ## Run it locally
 
 ```sh
