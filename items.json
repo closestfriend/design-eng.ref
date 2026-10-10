@@ -800,14 +800,14 @@
   "top_pick": false
  },
  {
-  "title": "eng.basement.studio",
+  "title": "Shader Lab (basement.studio)",
   "url": "https://eng.basement.studio/tools/shader-lab",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
   "paid": false,
-  "note": "",
+  "note": "Free browser editor on WebGPU for stacking and animating shader effects on images, video, text and 3D; has llms.txt.",
   "curators": [
    {
     "name": "Kirill Kuznetsov",
@@ -815,7 +815,7 @@
    }
   ],
   "agent_readable": "llms.txt",
-  "top_pick": false
+  "top_pick": true
  },
  {
   "title": "Eyecandy - Visual Technique Library",
@@ -1222,7 +1222,7 @@
   "top_pick": false
  },
  {
-  "title": "Shaders",
+  "title": "Shaders: open-source WebGPU shader components",
   "url": "https://shaders.com/",
   "applications": [
    "Backgrounds, shaders & generative visuals",
@@ -1230,7 +1230,7 @@
   ],
   "confidence": "high",
   "paid": false,
-  "note": "",
+  "note": "Open-source WebGPU shader components for React, Vue, Svelte, Solid and vanilla JS; has llms.txt.",
   "curators": [
    {
     "name": "claire r",
@@ -1238,7 +1238,7 @@
    }
   ],
   "agent_readable": "llms.txt",
-  "top_pick": false
+  "top_pick": true
  },
  {
   "title": "ShprAlex/SproutLife",
@@ -1328,17 +1328,17 @@
   "top_pick": false
  },
  {
-  "title": "Three.js – JavaScript 3D library",
+  "title": "Three.js",
   "url": "https://threejs.org/",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
   "paid": false,
-  "note": "",
+  "note": "The standard 3D library for WebGL and WebGPU; publishes llms.txt plus full docs for LLMs, including its TSL shader language.",
   "curators": [],
   "agent_readable": "llms.txt",
-  "top_pick": false
+  "top_pick": true
  },
  {
   "title": "Topographic Map Animation",
@@ -1377,14 +1377,14 @@
   "top_pick": false
  },
  {
-  "title": "unicorn.studio — No-code WebGL Tool",
+  "title": "Unicorn Studio",
   "url": "https://www.unicorn.studio/",
   "applications": [
    "Backgrounds, shaders & generative visuals"
   ],
   "confidence": "high",
   "paid": false,
-  "note": "",
+  "note": "Visual canvas for production-ready shader, 3D and interactive web graphics; has llms.txt.",
   "curators": [
    {
     "name": "bill stellar",
@@ -1404,7 +1404,7 @@
    }
   ],
   "agent_readable": "llms.txt",
-  "top_pick": false
+  "top_pick": true
  },
  {
   "title": "Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator",

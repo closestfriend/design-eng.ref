@@ -15,11 +15,11 @@ It is sorted by **the job a thing does in a build**, not by what kind of resourc
 > An AI model helped organize and tag this list, and the tags are only partly hand-checked, so expect some to be off. See [how this was made](#how-this-was-made).
 
 <!-- LIST:START -->
-**203 links** · valid as of 2026-10-09 · 30 start-here picks (★)
+**203 links** · valid as of 2026-10-09 · 34 start-here picks (★)
 
 ## Start here
 
-Where to start. 15 of these 30 publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.
+Where to start. 19 of these 34 publish `llms.txt` or a shadcn registry, so an agent can read the docs or install the code directly.
 
 | Pick | Job | Agent-readable | Note |
 |---|---|---|---|
@@ -48,6 +48,10 @@ Where to start. 15 of these 30 publish `llms.txt` or a shadcn registry, so an ag
 | [Canvas UI: Creative Canvas and WebGL Component Library](https://canvasui.dev/) | Backgrounds, shaders & generative visuals | `llms.txt`, shadcn registry | Canvas/WebGL effect components, framework-agnostic. Ships a shadcn registry. |
 | [Paper Shaders – Ultra-fast zero-dependency shaders](https://shaders.paper.design/) | Backgrounds, shaders & generative visuals | `llms.txt` | Zero-dependency shaders for React and GLSL; full docs for LLMs. |
 | [Retro Dither \| Canvas UI](https://canvasui.dev/docs/components/retro-dither) | Backgrounds, shaders & generative visuals | `llms.txt`, shadcn registry | Canvas/WebGL effect components, framework-agnostic. Ships a shadcn registry. |
+| [Shader Lab (basement.studio)](https://eng.basement.studio/tools/shader-lab) | Backgrounds, shaders & generative visuals | `llms.txt` | Free browser editor on WebGPU for stacking and animating shader effects on images, video, text and 3D; has llms.txt. |
+| [Shaders: open-source WebGPU shader components](https://shaders.com/) | Backgrounds, shaders & generative visuals | `llms.txt` | Open-source WebGPU shader components for React, Vue, Svelte, Solid and vanilla JS; has llms.txt. |
+| [Three.js](https://threejs.org/) | Backgrounds, shaders & generative visuals | `llms.txt` | The standard 3D library for WebGL and WebGPU; publishes llms.txt plus full docs for LLMs, including its TSL shader language. |
+| [Unicorn Studio](https://www.unicorn.studio/) | Backgrounds, shaders & generative visuals | `llms.txt` | Visual canvas for production-ready shader, 3D and interactive web graphics; has llms.txt. |
 | [tweakcn: themes for shadcn/ui](https://tweakcn.com/) | Theming, color & tokens | shadcn registry | Visual theme editor and generator for shadcn/ui. |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | Agent skills & motion vocabulary | GitHub | Skills for design engineers, for coding agents. |
 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | Agent skills & motion vocabulary | GitHub | Skills for design engineers, for coding agents. |
@@ -152,6 +156,10 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - ★ [Canvas UI: Creative Canvas and WebGL Component Library](https://canvasui.dev/) — `llms.txt` · shadcn registry (also: Core components & primitives)
 - ★ [Paper Shaders – Ultra-fast zero-dependency shaders](https://shaders.paper.design/) — `llms.txt`
 - ★ [Retro Dither | Canvas UI](https://canvasui.dev/docs/components/retro-dither) — `llms.txt` · shadcn registry
+- ★ [Shader Lab (basement.studio)](https://eng.basement.studio/tools/shader-lab) — `llms.txt`
+- ★ [Shaders: open-source WebGPU shader components](https://shaders.com/) — `llms.txt` (also: Core components & primitives)
+- ★ [Three.js](https://threejs.org/) — `llms.txt`
+- ★ [Unicorn Studio](https://www.unicorn.studio/) — `llms.txt`
 - [*p5.brush - Brush that canvas!](https://p5-brush.cargo.site/)
 - [3D Photo Effects free online app](https://3dthis.com/3dfx.htm)
 - [aahdee/p5grid: An implementation of triangle, square, hexagon, and octagon grids for p5.js.](https://github.com/aahdee/p5grid) — GitHub
@@ -165,7 +173,6 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [Dynamic Phyllotaxis 01](https://marlonbarrios.github.io/animated_phylotaxis/)
 - [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/) — `llms.txt`
 - [Efecto - Free ASCII Art & Dithering Effects Tool](https://efecto.app/?v=1&in=media&media=%252Fassets%252Fbeach-sunset.mp4&ms=1&mpx=0&mpy=-0.018518518518518545&ss=0&ac=10&gbs=0.2&gdp=0.49&gbo=0&gsp=0.6&pp=pa%3A1%3Anes%2C000000-b53120-6b6b6b-fcfcfc%2C0.7%7Csl%3A1%3A0.3%2C300%7Ccu%3A1%3A0.5%7Cvi%3A1%3A0.4%2C0.7%7Cbc%3A1%3A0.1%2C1.2%2C0%2C1) — `llms.txt`
-- [eng.basement.studio](https://eng.basement.studio/tools/shader-lab) — `llms.txt`
 - [Eyecandy - Visual Technique Library](https://eyecannndy.com/) (also: Inspiration & reference only)
 - [free SVG generators, web design tools & modern HTML templates](https://fffuel.co/) (also: Theming, color & tokens)
 - [Grainy Gradients | CSS-Tricks](https://css-tricks.com/grainy-gradients/) — `llms.txt` (also: Layout & CSS technique)
@@ -186,16 +193,13 @@ Each link sits under its main job; secondary jobs are noted in parentheses. Open
 - [Shader lab | Alembic](https://lab.alembic.space/)
 - [ShaderGPT](https://shadergpt.14islands.com/)
 - [ShaderGPT](https://shadergpt.14islands.com/c902bd8e-7b20-420d-b06f-e99355a908bd)
-- [Shaders](https://shaders.com/) — `llms.txt` (also: Core components & primitives)
 - [ShprAlex/SproutLife](https://github.com/ShprAlex/SproutLife) — GitHub
 - [Simple pencil + ink pen effect for SVG path using filters / Olivia Vane | Observable](https://observablehq.com/@oliviafvane/simple-pencil-ink-pen-effect-for-svg-path-using-filters) (also: Layout & CSS technique)
 - [Spherium | Advanced WebGL Globe & Map Generator](https://tryspherium.com/)
 - [Strings](https://codepen.io/shubniggurath/pen/ZYpjorm)
 - [SVG Filters](https://yoksel.github.io/svg-filters/) (also: Layout & CSS technique)
-- [Three.js – JavaScript 3D library](https://threejs.org/) — `llms.txt`
 - [Topographic Map Animation](https://codepen.io/jonyablonski/pen/BpxzrO)
 - [tsulej/GenerateMe](https://github.com/tsulej/GenerateMe) — GitHub
-- [unicorn.studio — No-code WebGL Tool](https://www.unicorn.studio/) — `llms.txt`
 - [urbit/sigil-js: ~4.2 billion default profile pics](https://github.com/urbit/sigil-js) — GitHub
 - [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://halftone.xoihazard.com/)
 - [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://xoihazard.com/tools/halftone/)
