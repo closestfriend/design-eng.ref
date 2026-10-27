@@ -11,9 +11,6 @@ Component libraries, motion and GSAP resources, shaders, theming tools and agent
 
 It is sorted by **the job a thing does in a build**, not by what kind of resource it is. Curated over years in [Are.na](https://www.are.na) by [closestfriend](https://github.com/closestfriend), with many of the links found through other people's channels (credits below).
 
-> [!NOTE]
-> An AI model helped organize and tag this list, and the tags are only partly hand-checked, so expect some to be off. See [how this was made](#how-this-was-made).
-
 <!-- LIST:START -->
 **201 links** · valid as of 2026-10-09 · 35 start-here picks (★)
 

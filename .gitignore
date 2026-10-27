@@ -2,3 +2,7 @@ _notes/
 .DS_Store
 node_modules/
 .claude/
+CLAUDE.md
+AGENTS.md
+.env
+.env.local
