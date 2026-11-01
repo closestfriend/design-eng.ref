@@ -94,11 +94,11 @@ function hero(theme) {
   <text x="${x0 + pickX + 16}" y="${ly}" font-size="12" fill="${mute}">start-here pick</text>
   <text x="${x0 + totalW}" y="${ly}" font-size="12" fill="${mute}" text-anchor="end">one square = one link · valid as of ${VALID_AS_OF}</text>`;
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 ${H}" width="1200" height="${H}" role="img" aria-labelledby="t d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-  <title id="t">UI references for coding agents</title>
+  <title id="t">Design Engineer References</title>
   <desc id="d">A mosaic of ${items.length} links, one square each, grouped into ${APPS.length} columns by the job they do in a UI build.</desc>
   <rect width="1200" height="${H}" rx="18" fill="${bg}"/>
-  <text x="${x0}" y="86" font-size="54" font-weight="700" fill="${fg}" font-family="ui-serif, Georgia, 'Times New Roman', serif">UI references</text>
-  <text x="${x0}" y="146" font-size="54" font-style="italic" fill="${fg}" font-family="ui-serif, Georgia, 'Times New Roman', serif">for coding agents</text>
+  <text x="${x0}" y="86" font-size="54" font-weight="700" fill="${fg}" font-family="ui-serif, Georgia, 'Times New Roman', serif">Design Engineer</text>
+  <text x="${x0}" y="146" font-size="54" font-style="italic" fill="${fg}" font-family="ui-serif, Georgia, 'Times New Roman', serif">References</text>
   <text x="${x0}" y="182" font-size="15" fill="${mute}">${items.length} links, sorted by the job they do in a build</text>
   ${g}${legend}
 </svg>
@@ -155,7 +155,7 @@ function listMarkdown() {
 }
 
 function llmsTxt() {
-  const out = ['# UI references for coding agents\n'];
+  const out = ['# Design Engineer References\n'];
   out.push(`> Index of ${items.length} component libraries, motion/GSAP resources, shaders, theming tools and agent skills for building interfaces, grouped by the job they do in a build. Valid as of ${VALID_AS_OF}. Tags are partly automated; see README.md. Items marked "unverified" are guesses.\n`);
   out.push('## Start here\n');
   for (const it of picks) out.push(`- [${it.title}](${it.url}): ${it.note || primary(it)}`);

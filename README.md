@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="UI references for coding agents: a mosaic of links, one square each, grouped by the job they do in a UI build" width="100%">
+    <img src="assets/hero-light.svg" alt="Design Engineer References: a mosaic of links, one square each, grouped by the job they do in a UI build" width="100%">
   </picture>
 </p>
 
