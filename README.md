@@ -5,9 +5,9 @@
   </picture>
 </p>
 
-# UI references for humans & coding agents <3 
+# Design Engineer References
 
-Component libraries, motion and GSAP resources, shaders, theming tools and agent skills worth handing to a coding agent when you are building interfaces.
+Component libraries, motion and GSAP resources, shaders, theming tools and agent skills worth handing to a coding agent when you are building interfaces.  
 
 It is sorted by **the job a thing does in a build**, not by what kind of resource it is. Curated over years in [Are.na](https://www.are.na) by [closestfriend](https://github.com/closestfriend), with many of the links found through other people's channels (credits below).
 
