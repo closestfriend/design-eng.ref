@@ -1,14 +1,169 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 428" width="1200" height="428" role="img" aria-labelledby="t d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 448" width="1200" height="448" role="img" aria-labelledby="t d">
   <title id="t">Design Engineer References</title>
-  <desc id="d">A mosaic of 201 links, one square each, grouped into 10 columns by the job they do in a UI build.</desc>
-  <rect width="1200" height="428" rx="18" fill="#f6f3ee"/>
-  <text x="105" y="86" font-size="54" font-weight="700" fill="#1b1a17" font-family="ui-serif, Georgia, 'Times New Roman', serif">Design Engineer</text>
-  <text x="105" y="146" font-size="54" font-style="italic" fill="#1b1a17" font-family="ui-serif, Georgia, 'Times New Roman', serif">References</text>
-  <text x="105" y="182" font-size="15" fill="#6d6a62">201 links, sorted by the job they do in a build</text>
-  <text x="105" y="218" font-size="12" font-weight="700" fill="#1b1a17">Components</text><text x="105" y="232" font-size="11" fill="#6d6a62">18</text><rect x="105" y="240" width="11" height="11" rx="2" fill="#2f6fed" stroke="#1b1a17" stroke-width="1.5"/><rect x="119" y="240" width="11" height="11" rx="2" fill="#2f6fed" stroke="#1b1a17" stroke-width="1.5"/><rect x="133" y="240" width="11" height="11" rx="2" fill="#2f6fed" stroke="#1b1a17" stroke-width="1.5"/><rect x="147" y="240" width="11" height="11" rx="2" fill="#2f6fed" stroke="#1b1a17" stroke-width="1.5"/><rect x="161" y="240" width="11" height="11" rx="2" fill="#2f6fed" stroke="#1b1a17" stroke-width="1.5"/><rect x="175" y="240" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="105" y="254" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="119" y="254" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="133" y="254" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="147" y="254" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="161" y="254" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="175" y="254" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="105" y="268" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="119" y="268" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="133" y="268" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="147" y="268" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="161" y="268" width="11" height="11" rx="2" fill="#2f6fed"/><rect x="175" y="268" width="11" height="11" rx="2" fill="#2f6fed"/><text x="206" y="218" font-size="12" font-weight="700" fill="#1b1a17">Micro-motion</text><text x="206" y="232" font-size="11" fill="#6d6a62">20</text><rect x="206" y="240" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="220" y="240" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="234" y="240" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="248" y="240" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="262" y="240" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="276" y="240" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="206" y="254" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="220" y="254" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="234" y="254" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="248" y="254" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="262" y="254" width="11" height="11" rx="2" fill="#8b5cf6" stroke="#1b1a17" stroke-width="1.5"/><rect x="276" y="254" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="206" y="268" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="220" y="268" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="234" y="268" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="248" y="268" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="262" y="268" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="276" y="268" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="206" y="282" width="11" height="11" rx="2" fill="#8b5cf6"/><rect x="220" y="282" width="11" height="11" rx="2" fill="#8b5cf6"/><text x="307" y="218" font-size="12" font-weight="700" fill="#1b1a17">Scroll</text><text x="307" y="232" font-size="11" fill="#6d6a62">9</text><rect x="307" y="240" width="11" height="11" rx="2" fill="#14b8a6" stroke="#1b1a17" stroke-width="1.5"/><rect x="321" y="240" width="11" height="11" rx="2" fill="#14b8a6" stroke="#1b1a17" stroke-width="1.5"/><rect x="335" y="240" width="11" height="11" rx="2" fill="#14b8a6" stroke="#1b1a17" stroke-width="1.5"/><rect x="349" y="240" width="11" height="11" rx="2" fill="#14b8a6"/><rect x="363" y="240" width="11" height="11" rx="2" fill="#14b8a6"/><rect x="377" y="240" width="11" height="11" rx="2" fill="#14b8a6"/><rect x="307" y="254" width="11" height="11" rx="2" fill="#14b8a6"/><rect x="321" y="254" width="11" height="11" rx="2" fill="#14b8a6"/><rect x="335" y="254" width="11" height="11" rx="2" fill="#14b8a6"/><text x="408" y="218" font-size="12" font-weight="700" fill="#1b1a17">Text FX</text><text x="408" y="232" font-size="11" fill="#6d6a62">7</text><rect x="408" y="240" width="11" height="11" rx="2" fill="#ec4899" stroke="#1b1a17" stroke-width="1.5"/><rect x="422" y="240" width="11" height="11" rx="2" fill="#ec4899"/><rect x="436" y="240" width="11" height="11" rx="2" fill="#ec4899"/><rect x="450" y="240" width="11" height="11" rx="2" fill="#ec4899"/><rect x="464" y="240" width="11" height="11" rx="2" fill="#ec4899"/><rect x="478" y="240" width="11" height="11" rx="2" fill="#ec4899"/><rect x="408" y="254" width="11" height="11" rx="2" fill="#ec4899"/><text x="509" y="218" font-size="12" font-weight="700" fill="#1b1a17">Loaders</text><text x="509" y="232" font-size="11" fill="#6d6a62">3</text><rect x="509" y="240" width="11" height="11" rx="2" fill="#f59e0b" stroke="#1b1a17" stroke-width="1.5"/><rect x="523" y="240" width="11" height="11" rx="2" fill="#f59e0b" stroke="#1b1a17" stroke-width="1.5"/><rect x="537" y="240" width="11" height="11" rx="2" fill="#f59e0b"/><text x="610" y="218" font-size="12" font-weight="700" fill="#1b1a17">Shaders</text><text x="610" y="232" font-size="11" fill="#6d6a62">50</text><rect x="610" y="240" width="11" height="11" rx="2" fill="#ef4444" stroke="#1b1a17" stroke-width="1.5"/><rect x="624" y="240" width="11" height="11" rx="2" fill="#ef4444" stroke="#1b1a17" stroke-width="1.5"/><rect x="638" y="240" width="11" height="11" rx="2" fill="#ef4444" stroke="#1b1a17" stroke-width="1.5"/><rect x="652" y="240" width="11" height="11" rx="2" fill="#ef4444" stroke="#1b1a17" stroke-width="1.5"/><rect x="666" y="240" width="11" height="11" rx="2" fill="#ef4444" stroke="#1b1a17" stroke-width="1.5"/><rect x="680" y="240" width="11" height="11" rx="2" fill="#ef4444" stroke="#1b1a17" stroke-width="1.5"/><rect x="610" y="254" width="11" height="11" rx="2" fill="#ef4444" stroke="#1b1a17" stroke-width="1.5"/><rect x="624" y="254" width="11" height="11" rx="2" fill="#ef4444"/><rect x="638" y="254" width="11" height="11" rx="2" fill="#ef4444"/><rect x="652" y="254" width="11" height="11" rx="2" fill="#ef4444"/><rect x="666" y="254" width="11" height="11" rx="2" fill="#ef4444"/><rect x="680" y="254" width="11" height="11" rx="2" fill="#ef4444"/><rect x="610" y="268" width="11" height="11" rx="2" fill="#ef4444"/><rect x="624" y="268" width="11" height="11" rx="2" fill="#ef4444"/><rect x="638" y="268" width="11" height="11" rx="2" fill="#ef4444"/><rect x="652" y="268" width="11" height="11" rx="2" fill="#ef4444"/><rect x="666" y="268" width="11" height="11" rx="2" fill="#ef4444"/><rect x="680" y="268" width="11" height="11" rx="2" fill="#ef4444"/><rect x="610" y="282" width="11" height="11" rx="2" fill="#ef4444"/><rect x="624" y="282" width="11" height="11" rx="2" fill="#ef4444"/><rect x="638" y="282" width="11" height="11" rx="2" fill="#ef4444"/><rect x="652" y="282" width="11" height="11" rx="2" fill="#ef4444"/><rect x="666" y="282" width="11" height="11" rx="2" fill="#ef4444"/><rect x="680" y="282" width="11" height="11" rx="2" fill="#ef4444"/><rect x="610" y="296" width="11" height="11" rx="2" fill="#ef4444"/><rect x="624" y="296" width="11" height="11" rx="2" fill="#ef4444"/><rect x="638" y="296" width="11" height="11" rx="2" fill="#ef4444"/><rect x="652" y="296" width="11" height="11" rx="2" fill="#ef4444"/><rect x="666" y="296" width="11" height="11" rx="2" fill="#ef4444"/><rect x="680" y="296" width="11" height="11" rx="2" fill="#ef4444"/><rect x="610" y="310" width="11" height="11" rx="2" fill="#ef4444"/><rect x="624" y="310" width="11" height="11" rx="2" fill="#ef4444"/><rect x="638" y="310" width="11" height="11" rx="2" fill="#ef4444"/><rect x="652" y="310" width="11" height="11" rx="2" fill="#ef4444"/><rect x="666" y="310" width="11" height="11" rx="2" fill="#ef4444"/><rect x="680" y="310" width="11" height="11" rx="2" fill="#ef4444"/><rect x="610" y="324" width="11" height="11" rx="2" fill="#ef4444"/><rect x="624" y="324" width="11" height="11" rx="2" fill="#ef4444"/><rect x="638" y="324" width="11" height="11" rx="2" fill="#ef4444"/><rect x="652" y="324" width="11" height="11" rx="2" fill="#ef4444"/><rect x="666" y="324" width="11" height="11" rx="2" fill="#ef4444"/><rect x="680" y="324" width="11" height="11" rx="2" fill="#ef4444"/><rect x="610" y="338" width="11" height="11" rx="2" fill="#ef4444"/><rect x="624" y="338" width="11" height="11" rx="2" fill="#ef4444"/><rect x="638" y="338" width="11" height="11" rx="2" fill="#ef4444"/><rect x="652" y="338" width="11" height="11" rx="2" fill="#ef4444"/><rect x="666" y="338" width="11" height="11" rx="2" fill="#ef4444"/><rect x="680" y="338" width="11" height="11" rx="2" fill="#ef4444"/><rect x="610" y="352" width="11" height="11" rx="2" fill="#ef4444"/><rect x="624" y="352" width="11" height="11" rx="2" fill="#ef4444"/><text x="711" y="218" font-size="12" font-weight="700" fill="#1b1a17">Theming</text><text x="711" y="232" font-size="11" fill="#6d6a62">16</text><rect x="711" y="240" width="11" height="11" rx="2" fill="#84cc16" stroke="#1b1a17" stroke-width="1.5"/><rect x="725" y="240" width="11" height="11" rx="2" fill="#84cc16"/><rect x="739" y="240" width="11" height="11" rx="2" fill="#84cc16"/><rect x="753" y="240" width="11" height="11" rx="2" fill="#84cc16"/><rect x="767" y="240" width="11" height="11" rx="2" fill="#84cc16"/><rect x="781" y="240" width="11" height="11" rx="2" fill="#84cc16"/><rect x="711" y="254" width="11" height="11" rx="2" fill="#84cc16"/><rect x="725" y="254" width="11" height="11" rx="2" fill="#84cc16"/><rect x="739" y="254" width="11" height="11" rx="2" fill="#84cc16"/><rect x="753" y="254" width="11" height="11" rx="2" fill="#84cc16"/><rect x="767" y="254" width="11" height="11" rx="2" fill="#84cc16"/><rect x="781" y="254" width="11" height="11" rx="2" fill="#84cc16"/><rect x="711" y="268" width="11" height="11" rx="2" fill="#84cc16"/><rect x="725" y="268" width="11" height="11" rx="2" fill="#84cc16"/><rect x="739" y="268" width="11" height="11" rx="2" fill="#84cc16"/><rect x="753" y="268" width="11" height="11" rx="2" fill="#84cc16"/><text x="812" y="218" font-size="12" font-weight="700" fill="#1b1a17">CSS</text><text x="812" y="232" font-size="11" fill="#6d6a62">40</text><rect x="812" y="240" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="826" y="240" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="840" y="240" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="854" y="240" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="868" y="240" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="882" y="240" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="812" y="254" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="826" y="254" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="840" y="254" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="854" y="254" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="868" y="254" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="882" y="254" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="812" y="268" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="826" y="268" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="840" y="268" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="854" y="268" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="868" y="268" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="882" y="268" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="812" y="282" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="826" y="282" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="840" y="282" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="854" y="282" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="868" y="282" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="882" y="282" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="812" y="296" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="826" y="296" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="840" y="296" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="854" y="296" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="868" y="296" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="882" y="296" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="812" y="310" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="826" y="310" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="840" y="310" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="854" y="310" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="868" y="310" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="882" y="310" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="812" y="324" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="826" y="324" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="840" y="324" width="11" height="11" rx="2" fill="#06b6d4"/><rect x="854" y="324" width="11" height="11" rx="2" fill="#06b6d4"/><text x="913" y="218" font-size="12" font-weight="700" fill="#1b1a17">Agent skills</text><text x="913" y="232" font-size="11" fill="#6d6a62">4</text><rect x="913" y="240" width="11" height="11" rx="2" fill="#f97316" stroke="#1b1a17" stroke-width="1.5"/><rect x="927" y="240" width="11" height="11" rx="2" fill="#f97316" stroke="#1b1a17" stroke-width="1.5"/><rect x="941" y="240" width="11" height="11" rx="2" fill="#f97316" stroke="#1b1a17" stroke-width="1.5"/><rect x="955" y="240" width="11" height="11" rx="2" fill="#f97316"/><text x="1014" y="218" font-size="12" font-weight="700" fill="#1b1a17">Inspiration</text><text x="1014" y="232" font-size="11" fill="#6d6a62">34</text><rect x="1014" y="240" width="11" height="11" rx="2" fill="#94a3b8" stroke="#1b1a17" stroke-width="1.5"/><rect x="1028" y="240" width="11" height="11" rx="2" fill="#94a3b8" stroke="#1b1a17" stroke-width="1.5"/><rect x="1042" y="240" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1056" y="240" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1070" y="240" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1084" y="240" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1014" y="254" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1028" y="254" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1042" y="254" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1056" y="254" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1070" y="254" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1084" y="254" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1014" y="268" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1028" y="268" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1042" y="268" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1056" y="268" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1070" y="268" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1084" y="268" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1014" y="282" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1028" y="282" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1042" y="282" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1056" y="282" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1070" y="282" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1084" y="282" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1014" y="296" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1028" y="296" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1042" y="296" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1056" y="296" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1070" y="296" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1084" y="296" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1014" y="310" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1028" y="310" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1042" y="310" width="11" height="11" rx="2" fill="#94a3b8"/><rect x="1056" y="310" width="11" height="11" rx="2" fill="#94a3b8"/>
-  <rect x="105" y="393" width="10" height="10" rx="2" fill="#6d6a62"/>
-  <text x="121" y="402" font-size="12" fill="#6d6a62">link</text>
-  <rect x="175" y="393" width="10" height="10" rx="2" fill="#6d6a62" stroke="#1b1a17" stroke-width="1.5"/>
-  <text x="191" y="402" font-size="12" fill="#6d6a62">start-here pick</text>
-  <text x="1095" y="402" font-size="12" fill="#6d6a62" text-anchor="end">one square = one link · valid as of 2026-10-09</text>
+  <desc id="d">Directory and category breakdown of 201 design-engineering resources across 10 build domains with 35 start-here picks and 36 agent-ready docs.</desc>
+
+  <!-- Container -->
+  <rect width="1200" height="448" rx="14" fill="#faf9f7"/>
+  <rect x="1" y="1" width="1198" height="446" rx="13" fill="none" stroke="#e2e2e8" stroke-width="1"/>
+
+  <!-- Top System Bar -->
+  <circle cx="60" cy="36" r="4" fill="#059669"/>
+  <text x="74" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#131316" letter-spacing="0.05em">DESIGN-ENG.REF</text>
+  <text x="206" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#9c9da8">// SYSTEM SPEC &amp; BREAKDOWN</text>
+  
+  <text x="1152" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6b6c7a" text-anchor="end">INDEX: 201 NODES · 10 DOMAINS · CC0-1.0</text>
+  <line x1="48" y1="54" x2="1152" y2="54" stroke="#e2e2e8" stroke-width="1"/>
+
+  <!-- Middle Tier: Left Typography Masthead -->
+  <g transform="translate(48, 86)">
+    <text x="0" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#0284c7" letter-spacing="0.08em">DESIGN ENGINEER REFERENCES</text>
+    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#131316" letter-spacing="-0.03em">A canonical index for UI craft.</text>
+    <text x="0" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#6b6c7a">Component primitives, micro-motion, shaders, styling systems &amp; agent skills.</text>
+    <text x="0" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#9c9da8">SORTED BY JOB IN BUILD · CURATED BY CLOSESTFRIEND · SHIPS LLMS.TXT</text>
+  </g>
+
+  <!-- Middle Tier: Right Metric Readouts (3 Stat Cards) -->
+  <g transform="translate(640, 78)">
+    <!-- Stat 1: Total Links -->
+    <g transform="translate(0, 0)">
+      <rect width="158" height="124" rx="10" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#9c9da8" letter-spacing="0.06em">TOTAL REFS</text>
+      <text x="16" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#131316" letter-spacing="-0.02em">201</text>
+      <text x="16" y="94" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">Live entries</text>
+      <line x1="16" y1="104" x2="142" y2="104" stroke="#e2e2e8" stroke-width="1"/>
+      <text x="16" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#9c9da8">100% curated</text>
+    </g>
+
+    <!-- Stat 2: Curated Picks -->
+    <g transform="translate(176, 0)">
+      <rect width="158" height="124" rx="10" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" letter-spacing="0.06em">START HERE</text>
+      <text x="16" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#d97706" letter-spacing="-0.02em">35 <tspan font-size="24">★</tspan></text>
+      <text x="16" y="94" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">Selected picks</text>
+      <line x1="16" y1="104" x2="142" y2="104" stroke="#e2e2e8" stroke-width="1"/>
+      <text x="16" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#9c9da8">Highest leverage</text>
+    </g>
+
+    <!-- Stat 3: Agent Ready -->
+    <g transform="translate(352, 0)">
+      <rect width="158" height="124" rx="10" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="16" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#0284c7" letter-spacing="0.06em">AGENT READY</text>
+      <text x="16" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#0284c7" letter-spacing="-0.02em">36</text>
+      <text x="16" y="94" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">Machine docs</text>
+      <line x1="16" y1="104" x2="142" y2="104" stroke="#e2e2e8" stroke-width="1"/>
+      <text x="16" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#9c9da8">llms.txt / shadcn</text>
+    </g>
+  </g>
+
+  <!-- Lower Section Divider -->
+  <line x1="48" y1="224" x2="1152" y2="224" stroke="#e2e2e8" stroke-width="1"/>
+  <text x="48" y="238" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#9c9da8" letter-spacing="0.06em">TAXONOMY // DOMAIN DISTRIBUTION</text>
+  <text x="1152" y="238" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#9c9da8" text-anchor="end">10 ACTIVE DOMAINS</text>
+
+  <!-- Bottom Tier: 10 Categories -->
+  
+    <g transform="translate(48, 252)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 01</text>
+      <circle cx="194" cy="17" r="3.5" fill="#2f6fed"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Components</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="66" height="3" rx="1.5" fill="#2f6fed"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">18 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">5 ★</text>
+    </g>
+    <g transform="translate(272, 252)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 02</text>
+      <circle cx="194" cy="17" r="3.5" fill="#8b5cf6"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Micro-motion</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="74" height="3" rx="1.5" fill="#8b5cf6"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">20 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">11 ★</text>
+    </g>
+    <g transform="translate(496, 252)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 03</text>
+      <circle cx="194" cy="17" r="3.5" fill="#14b8a6"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Scroll</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="33" height="3" rx="1.5" fill="#14b8a6"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">9 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">3 ★</text>
+    </g>
+    <g transform="translate(720, 252)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 04</text>
+      <circle cx="194" cy="17" r="3.5" fill="#ec4899"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Text FX</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="26" height="3" rx="1.5" fill="#ec4899"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">7 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">1 ★</text>
+    </g>
+    <g transform="translate(944, 252)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 05</text>
+      <circle cx="194" cy="17" r="3.5" fill="#f59e0b"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Loaders</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="11" height="3" rx="1.5" fill="#f59e0b"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">3 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">2 ★</text>
+    </g>
+    <g transform="translate(48, 336)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 06</text>
+      <circle cx="194" cy="17" r="3.5" fill="#ef4444"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Shaders</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#ef4444"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">50 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">7 ★</text>
+    </g>
+    <g transform="translate(272, 336)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 07</text>
+      <circle cx="194" cy="17" r="3.5" fill="#84cc16"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Theming</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="59" height="3" rx="1.5" fill="#84cc16"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">16 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">1 ★</text>
+    </g>
+    <g transform="translate(496, 336)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 08</text>
+      <circle cx="194" cy="17" r="3.5" fill="#06b6d4"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">CSS</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="147" height="3" rx="1.5" fill="#06b6d4"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">40 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#9c9da8" text-anchor="end">—</text>
+    </g>
+    <g transform="translate(720, 336)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 09</text>
+      <circle cx="194" cy="17" r="3.5" fill="#f97316"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Agent skills</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="15" height="3" rx="1.5" fill="#f97316"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">4 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">3 ★</text>
+    </g>
+    <g transform="translate(944, 336)">
+      <rect width="208" height="72" rx="8" fill="#ffffff" stroke="#eae9ef" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="500" fill="#9c9da8">// 10</text>
+      <circle cx="194" cy="17" r="3.5" fill="#94a3b8"/>
+      <text x="12" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#131316">Inspiration</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="#edecee"/>
+      <rect x="12" y="47" width="125" height="3" rx="1.5" fill="#94a3b8"/>
+      <text x="12" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b6c7a">34 items</text>
+      <text x="196" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" fill="#d97706" text-anchor="end">2 ★</text>
+    </g>
+
+  <!-- Bottom Footer Line -->
+  <text x="48" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#9c9da8">SPEC: DESIGN-ENG.REF · BUILT FROM ITEMS.CSV · VALID AS OF 2026-10-09</text>
+  <text x="1152" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#9c9da8" text-anchor="end">GITHUB.COM/CLOSESTFRIEND/DESIGN-ENG.REF</text>
 </svg>

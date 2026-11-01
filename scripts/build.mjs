@@ -60,47 +60,121 @@ const mdEsc = (s) => s.replace(/\|/g, '\\|').replace(/\r?\n/g, ' ');
 // ------------------------------------------------------------ hero SVGs
 function hero(theme) {
   const dark = theme === 'dark';
-  const bg = dark ? '#111114' : '#f6f3ee';
-  const fg = dark ? '#f2efe8' : '#1b1a17';
-  const mute = dark ? '#8d8a82' : '#6d6a62';
-  const CELL = 11, GAP = 3, PITCH = CELL + GAP, COLS = 6, BLOCK_GAP = 20;
-  const blockW = COLS * PITCH - GAP;
-  const totalW = APPS.length * blockW + (APPS.length - 1) * BLOCK_GAP;
-  const x0 = Math.round((1200 - totalW) / 2), y0 = 240;
-  const maxRows = Math.max(...byApp.map((l) => Math.ceil(l.length / COLS)));
-  const H = y0 + maxRows * PITCH + 62;
-  let g = '';
-  APPS.forEach(([name, short, color], bi) => {
-    const x = x0 + bi * (blockW + BLOCK_GAP);
-    const list = [...byApp[bi]].sort((a, b) => (b.topPick - a.topPick) || ((a.confidence === 'low') - (b.confidence === 'low')));
-    g += `<text x="${x}" y="${y0 - 22}" font-size="12" font-weight="700" fill="${fg}">${esc(short)}</text>`;
-    g += `<text x="${x}" y="${y0 - 8}" font-size="11" fill="${mute}">${list.length}</text>`;
-    list.forEach((it, i) => {
-      const cx = x + (i % COLS) * PITCH, cy = y0 + Math.floor(i / COLS) * PITCH;
-      if (it.confidence === 'low') g += `<rect x="${cx + 0.75}" y="${cy + 0.75}" width="${CELL - 1.5}" height="${CELL - 1.5}" rx="2" fill="none" stroke="${color}" stroke-width="1.5"/>`;
-      else if (it.topPick) g += `<rect x="${cx}" y="${cy}" width="${CELL}" height="${CELL}" rx="2" fill="${color}" stroke="${fg}" stroke-width="1.5"/>`;
-      else g += `<rect x="${cx}" y="${cy}" width="${CELL}" height="${CELL}" rx="2" fill="${color}"/>`;
-    });
+  const bg = dark ? '#08090c' : '#faf9f7';
+  const cardBg = dark ? '#0f1015' : '#ffffff';
+  const border = dark ? '#1e2029' : '#e2e2e8';
+  const innerBorder = dark ? '#1b1d26' : '#eae9ef';
+  const trackBg = dark ? '#181922' : '#edecee';
+  const fg = dark ? '#f4f4f7' : '#131316';
+  const mute = dark ? '#8b8d99' : '#6b6c7a';
+  const faint = dark ? '#4c4e5e' : '#9c9da8';
+  const accentBlue = dark ? '#38bdf8' : '#0284c7';
+  const accentAmber = dark ? '#f59e0b' : '#d97706';
+  const statusGreen = dark ? '#10b981' : '#059669';
+
+  const mono = "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace";
+  const sans = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif";
+
+  const agentReady = items.filter((it) => /llms\.txt|shadcn/.test(it.agentReadable)).length;
+  const maxCatCount = Math.max(...byApp.map((l) => l.length), 1);
+
+  // 10 category cards arranged in 5 columns x 2 rows
+  const cardW = 208, cardH = 72, gapX = 16, gapY = 12;
+  const startX = 48, startY = 252;
+
+  let catSvg = '';
+  APPS.forEach(([fullName, short, color], i) => {
+    const list = byApp[i];
+    const count = list.length;
+    const catPicks = list.filter((it) => it.topPick).length;
+    const col = i % 5;
+    const row = Math.floor(i / 5);
+    const x = startX + col * (cardW + gapX);
+    const y = startY + row * (cardH + gapY);
+    const barW = Math.max(8, Math.round(184 * (count / maxCatCount)));
+    const num = (i + 1).toString().padStart(2, '0');
+
+    catSvg += `
+    <g transform="translate(${x}, ${y})">
+      <rect width="${cardW}" height="${cardH}" rx="8" fill="${cardBg}" stroke="${innerBorder}" stroke-width="1"/>
+      <text x="12" y="20" font-family="${mono}" font-size="10" font-weight="500" fill="${faint}">// ${num}</text>
+      <circle cx="194" cy="17" r="3.5" fill="${color}"/>
+      <text x="12" y="38" font-family="${sans}" font-size="13" font-weight="600" fill="${fg}">${esc(short)}</text>
+      <rect x="12" y="47" width="184" height="3" rx="1.5" fill="${trackBg}"/>
+      <rect x="12" y="47" width="${barW}" height="3" rx="1.5" fill="${color}"/>
+      <text x="12" y="62" font-family="${mono}" font-size="10" fill="${mute}">${count} items</text>
+      <text x="196" y="62" font-family="${mono}" font-size="10" font-weight="600" fill="${catPicks > 0 ? accentAmber : faint}" text-anchor="end">${catPicks > 0 ? `${catPicks} ★` : '—'}</text>
+    </g>`;
   });
-  const ly = H - 26;
-  const hasLow = items.some((it) => it.confidence === 'low');
-  const pickX = hasLow ? 250 : 70; // the "unverified" legend entry only appears when there are unverified links
-  const legend = `
-  <rect x="${x0}" y="${ly - 9}" width="10" height="10" rx="2" fill="${mute}"/>
-  <text x="${x0 + 16}" y="${ly}" font-size="12" fill="${mute}">${hasLow ? 'checked tag' : 'link'}</text>${hasLow ? `
-  <rect x="${x0 + 112}" y="${ly - 8.25}" width="8.5" height="8.5" rx="2" fill="none" stroke="${mute}" stroke-width="1.5"/>
-  <text x="${x0 + 128}" y="${ly}" font-size="12" fill="${mute}">unverified tag</text>` : ''}
-  <rect x="${x0 + pickX}" y="${ly - 9}" width="10" height="10" rx="2" fill="${mute}" stroke="${fg}" stroke-width="1.5"/>
-  <text x="${x0 + pickX + 16}" y="${ly}" font-size="12" fill="${mute}">start-here pick</text>
-  <text x="${x0 + totalW}" y="${ly}" font-size="12" fill="${mute}" text-anchor="end">one square = one link · valid as of ${VALID_AS_OF}</text>`;
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 ${H}" width="1200" height="${H}" role="img" aria-labelledby="t d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 448" width="1200" height="448" role="img" aria-labelledby="t d">
   <title id="t">Design Engineer References</title>
-  <desc id="d">A mosaic of ${items.length} links, one square each, grouped into ${APPS.length} columns by the job they do in a UI build.</desc>
-  <rect width="1200" height="${H}" rx="18" fill="${bg}"/>
-  <text x="${x0}" y="86" font-size="54" font-weight="700" fill="${fg}" font-family="ui-serif, Georgia, 'Times New Roman', serif">Design Engineer</text>
-  <text x="${x0}" y="146" font-size="54" font-style="italic" fill="${fg}" font-family="ui-serif, Georgia, 'Times New Roman', serif">References</text>
-  <text x="${x0}" y="182" font-size="15" fill="${mute}">${items.length} links, sorted by the job they do in a build</text>
-  ${g}${legend}
+  <desc id="d">Directory and category breakdown of ${items.length} design-engineering resources across ${APPS.length} build domains with ${picks.length} start-here picks and ${agentReady} agent-ready docs.</desc>
+
+  <!-- Container -->
+  <rect width="1200" height="448" rx="14" fill="${bg}"/>
+  <rect x="1" y="1" width="1198" height="446" rx="13" fill="none" stroke="${border}" stroke-width="1"/>
+
+  <!-- Top System Bar -->
+  <circle cx="60" cy="36" r="4" fill="${statusGreen}"/>
+  <text x="74" y="40" font-family="${mono}" font-size="11" font-weight="600" fill="${fg}" letter-spacing="0.05em">DESIGN-ENG.REF</text>
+  <text x="206" y="40" font-family="${mono}" font-size="11" fill="${faint}">// SYSTEM SPEC &amp; BREAKDOWN</text>
+  
+  <text x="1152" y="40" font-family="${mono}" font-size="11" fill="${mute}" text-anchor="end">INDEX: ${items.length} NODES · ${APPS.length} DOMAINS · CC0-1.0</text>
+  <line x1="48" y1="54" x2="1152" y2="54" stroke="${border}" stroke-width="1"/>
+
+  <!-- Middle Tier: Left Typography Masthead -->
+  <g transform="translate(48, 86)">
+    <text x="0" y="20" font-family="${mono}" font-size="11" font-weight="600" fill="${accentBlue}" letter-spacing="0.08em">DESIGN ENGINEER REFERENCES</text>
+    <text x="0" y="58" font-family="${sans}" font-size="34" font-weight="700" fill="${fg}" letter-spacing="-0.03em">A canonical index for UI craft.</text>
+    <text x="0" y="88" font-family="${sans}" font-size="14" fill="${mute}">Component primitives, micro-motion, shaders, styling systems &amp; agent skills.</text>
+    <text x="0" y="116" font-family="${mono}" font-size="11" fill="${faint}">SORTED BY JOB IN BUILD · CURATED BY CLOSESTFRIEND · SHIPS LLMS.TXT</text>
+  </g>
+
+  <!-- Middle Tier: Right Metric Readouts (3 Stat Cards) -->
+  <g transform="translate(640, 78)">
+    <!-- Stat 1: Total Links -->
+    <g transform="translate(0, 0)">
+      <rect width="158" height="124" rx="10" fill="${cardBg}" stroke="${innerBorder}" stroke-width="1"/>
+      <text x="16" y="26" font-family="${mono}" font-size="10" font-weight="600" fill="${faint}" letter-spacing="0.06em">TOTAL REFS</text>
+      <text x="16" y="68" font-family="${sans}" font-size="36" font-weight="700" fill="${fg}" letter-spacing="-0.02em">${items.length}</text>
+      <text x="16" y="94" font-family="${mono}" font-size="10" fill="${mute}">Live entries</text>
+      <line x1="16" y1="104" x2="142" y2="104" stroke="${border}" stroke-width="1"/>
+      <text x="16" y="116" font-family="${mono}" font-size="9" fill="${faint}">100% curated</text>
+    </g>
+
+    <!-- Stat 2: Curated Picks -->
+    <g transform="translate(176, 0)">
+      <rect width="158" height="124" rx="10" fill="${cardBg}" stroke="${innerBorder}" stroke-width="1"/>
+      <text x="16" y="26" font-family="${mono}" font-size="10" font-weight="600" fill="${accentAmber}" letter-spacing="0.06em">START HERE</text>
+      <text x="16" y="68" font-family="${sans}" font-size="36" font-weight="700" fill="${accentAmber}" letter-spacing="-0.02em">${picks.length} <tspan font-size="24">★</tspan></text>
+      <text x="16" y="94" font-family="${mono}" font-size="10" fill="${mute}">Selected picks</text>
+      <line x1="16" y1="104" x2="142" y2="104" stroke="${border}" stroke-width="1"/>
+      <text x="16" y="116" font-family="${mono}" font-size="9" fill="${faint}">Highest leverage</text>
+    </g>
+
+    <!-- Stat 3: Agent Ready -->
+    <g transform="translate(352, 0)">
+      <rect width="158" height="124" rx="10" fill="${cardBg}" stroke="${innerBorder}" stroke-width="1"/>
+      <text x="16" y="26" font-family="${mono}" font-size="10" font-weight="600" fill="${accentBlue}" letter-spacing="0.06em">AGENT READY</text>
+      <text x="16" y="68" font-family="${sans}" font-size="36" font-weight="700" fill="${accentBlue}" letter-spacing="-0.02em">${agentReady}</text>
+      <text x="16" y="94" font-family="${mono}" font-size="10" fill="${mute}">Machine docs</text>
+      <line x1="16" y1="104" x2="142" y2="104" stroke="${border}" stroke-width="1"/>
+      <text x="16" y="116" font-family="${mono}" font-size="9" fill="${faint}">llms.txt / shadcn</text>
+    </g>
+  </g>
+
+  <!-- Lower Section Divider -->
+  <line x1="48" y1="224" x2="1152" y2="224" stroke="${border}" stroke-width="1"/>
+  <text x="48" y="238" font-family="${mono}" font-size="10" font-weight="600" fill="${faint}" letter-spacing="0.06em">TAXONOMY // DOMAIN DISTRIBUTION</text>
+  <text x="1152" y="238" font-family="${mono}" font-size="10" fill="${faint}" text-anchor="end">${APPS.length} ACTIVE DOMAINS</text>
+
+  <!-- Bottom Tier: 10 Categories -->
+  ${catSvg}
+
+  <!-- Bottom Footer Line -->
+  <text x="48" y="432" font-family="${mono}" font-size="9" fill="${faint}">SPEC: DESIGN-ENG.REF · BUILT FROM ITEMS.CSV · VALID AS OF ${VALID_AS_OF}</text>
+  <text x="1152" y="432" font-family="${mono}" font-size="9" fill="${faint}" text-anchor="end">GITHUB.COM/CLOSESTFRIEND/DESIGN-ENG.REF</text>
 </svg>
 `;
 }
