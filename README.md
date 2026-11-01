@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-# UI references for coding agents
+# UI references for humans & coding agents <3 
 
 Component libraries, motion and GSAP resources, shaders, theming tools and agent skills worth handing to a coding agent when you are building interfaces.
 
